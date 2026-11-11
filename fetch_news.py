@@ -5,7 +5,9 @@ import json, os, time, datetime as dt, urllib.request, urllib.parse, urllib.erro
 import xml.etree.ElementTree as ET
 
 UA = {"User-Agent": "Mozilla/5.0 (ledggit news bot)"}
-MODELS = [m for m in [os.environ.get("GEMINI_MODEL"), "gemini-2.5-flash", "gemini-flash-latest", "gemini-2.0-flash"] if m]
+MODELS = [m for m in [os.environ.get("GEMINI_MODEL"), "gemini-3.8-flash", "gemini-flash-latest"] if m]
+DEAD = set()  # models Google says are gone
+LAST = [0]  # last HTTP status
 GOOD = []  # remembers the model that worked
 KEY = os.environ.get("GEMINI_API_KEY", "")
 CAL = "https://nfs.faireconomy.media/ff_calendar_thisweek.json"  # check its terms before going public
@@ -22,12 +24,16 @@ INSTR = {
 def get(url, data=None, headers=None):
     try:
         req = urllib.request.Request(url, data=data, headers=headers or UA)
-        return urllib.request.urlopen(req, timeout=25).read()
+        resp = urllib.request.urlopen(req, timeout=45)
+        LAST[0] = 200
+        return resp.read()
     except urllib.error.HTTPError as e:
+        LAST[0] = e.code
         body = e.read()[:300].decode("utf-8", "ignore")
         print("HTTP", e.code, url.split("?")[0][:100], body.replace(KEY, "***") if KEY else body)
         return None
     except Exception as e:
+        LAST[0] = 0
         print("fetch failed:", url.split("?")[0][:100], e)
         return None
 
@@ -75,10 +81,13 @@ Calendar (high/medium impact this week): {json.dumps(events)}
 Reply with JSON only, in this shape:
 {{"head":"one short headline","plain":"2 simple sentences on what is happening and why it matters for {info['name']}","bias":number from -1 (bearish) to 1 (bullish),"tag":"2-3 word label such as Leaning cautious","pts":[["emoji","short title","one sentence"],["emoji","short title","one sentence"],["emoji","short title","one sentence"]],"watch":"the next key event to watch","plan":"one sentence on how to approach the day"}}"""
     body = json.dumps({"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"responseMimeType": "application/json"}}).encode()
-    for model in (GOOD or MODELS):
+    for model in (GOOD or MODELS) * 2:
+        if model in DEAD: continue
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={KEY}"
         raw = get(url, body, {"Content-Type": "application/json"})
-        if not raw: continue
+        if not raw:
+            if LAST[0] == 404: DEAD.add(model)
+            time.sleep(4); continue
         try:
             txt = json.loads(raw)["candidates"][0]["content"]["parts"][0]["text"].strip()
             txt = txt.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
@@ -101,8 +110,23 @@ def fallback(heads, events):
             "watch": events[0] if events else "Check the economic calendar for today.",
             "plan": "Keep size small until you have formed your own view."}
 
+def discover():
+    """Ask Google which Flash models this key can use, and add the newest ones."""
+    if not KEY: return
+    raw = get("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200&key=" + KEY)
+    try:
+        names = [m["name"].split("/")[-1] for m in json.loads(raw).get("models", [])
+                 if "generateContent" in m.get("supportedGenerationMethods", []) and "flash" in m["name"]
+                 and not any(x in m["name"] for x in ("lite", "image", "tts", "live", "audio", "thinking"))]
+    except Exception as e:
+        names = []; print("could not list models", e)
+    for n in sorted(names, reverse=True)[:3]:
+        if n not in MODELS: MODELS.append(n)
+    print("Models to try:", MODELS)
+
 def main():
     print("AI key found" if KEY else "NO GEMINI_API_KEY found - headlines only")
+    discover()
     cal = calendar()
     items = {}
     for k, info in INSTR.items():
