@@ -1,5 +1,5 @@
 {
- "updated": "11 Nov 2026 19:16 UTC",
+ "updated": "11 Nov 2026 19:28 UTC",
  "items": {
   "gold": {
    "head": "Gold Price Forecast: XAU/USD rallies remain limited with bulls capped below $4,050 - FXStreet",
@@ -137,11 +137,16 @@
    ]
   },
   "jpy": {
-   "head": "USD/JPY, DAX Forecast: Two trades to watch - StoneX",
+   "head": "Japanese Yen Short-term Outlook: USD/JPY Breakout Hits 10-Week Highs—160 in Focus - FOREX.com",
    "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
    "bias": 0,
    "tag": "Headlines only",
    "pts": [
+    [
+     "📰",
+     "FOREX.com",
+     "Japanese Yen Short-term Outlook: USD/JPY Breakout Hits 10-Week Highs—160 in Focus - FOREX.com"
+    ],
     [
      "📰",
      "StoneX",
@@ -151,11 +156,6 @@
      "📰",
      "FXStreet",
      "Japanese Yen tumbles to ten-week low as USD/JPY breaks above 159.00 - FXStreet"
-    ],
-    [
-     "📰",
-     "investingLive",
-     "USD/JPY knocks on the door of 159.00 again, dollar bulls risk poking the intervention bear - investingLive"
     ]
    ],
    "watch": "2026-11-10 04:00 USD FOMC Member Waller Speaks (Medium; forecast n/a, previous n/a)",
@@ -163,6 +163,10 @@
    "short": "USD/JPY",
    "name": "USDJPY",
    "src": [
+    [
+     "FOREX.com",
+     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRFNXRS00ZjZwWGg5MmpLVExaYy1YbjMwM0ZTRnVjYkprSVBMLXdlb0NNd0QtUVd4MjFsaldxLWJ5d3RtT0xMS291WFRXeGMzVERXaXVkUWNKOEtxeEJSVGJ1RGx6WjBoUHpFaHpRVElDX2N2TVhZSVN0NmFfOFQxWDFpM3JodWdfZFdUcTdKTngzZFRxbnUtQm00bFBLUXBidTQtTkVzUy1VSjhwTW1Sc2ZkdFNWUVJ6dG1SaVNGVmlhaFVua2NPclBPX3Z2dWE00gHcAUFVX3lxTE5tR2dyRWlZQzBZM29wTFlPWTFiWW1lWjJ5UHhkajY2R1RfMmxMSEtSWUhMclBHLURYSzE3b2djYkFzSVJYRzNkcDRyaDVWZ2RtZm1BWXdNMHRkZTBfTDljMDk2SGpUTHZrWVhTRWY3djh6SXphZDVCUXB0RFBIRFNRSnRrZHp4Wkp6amlfc3VscG9TZGlEekxSWHlVaFlMbThId2RrekxuUEtFZXljS0VGUW8zaDBDSkJvV0pCazlpWTB2S3E3bm95SEpzU2lxcm9FZFN0dmdOVjRBbWc?oc=5"
+    ],
     [
      "StoneX",
      "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlNUVU9yTE1wTVN3SVpQWklvc0hMRnBQM3c3T0NyQ1J2Y1FVWXpZMUJhMHhvRXNUUjRKdkFQRkR1MjNhT3FMamFPY2xwWG5mdDFGN05ieUNydFUxeU9qclF6U2JyaXBmR2RpTnVaSHY5U1RVS3cyQUltMjZId08tTlcyaE1wemowQmxfSnNlM05OX1NUUHhUaHFTTU41TGlr?oc=5"
@@ -174,10 +178,6 @@
     [
      "investingLive",
      "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGJySGdqaTc2Y0d6VWdxdFlqNnl2elFNTWFlb3JSdHJlRFg5QWpHZ21WY1N3Y3RmWV93QUh6UE81aTJ0S3JOV1hQeUVwNlhsaVBvTWoyeDFhWjFMTW1fTXd5WHc2dzlKaFRrVTBCZlZNTTZDNEttNXlIUkg3Y0pvaUNvLXJDXy1La3VBUnk4U0ZRV01QTXFxZjU2Z2lhWkdtQXZRVkQ2alBud3U0WE9YcWNGTURwZWp6VmNlZ0k0UQ?oc=5"
-    ],
-    [
-     "www.tokenpost.com",
-     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9veEZ6by1DVWlPSUVWS19vZjJuaWNsWVUzMXdEWHBWNEpQUkFoWmhTSXVLVUhUS1AyUlQzaVM3b1FPSEJBYWpKUlU0OUFsc25ENkNTLTR4cjRvQQ?oc=5"
     ]
    ]
   },
@@ -239,13 +239,13 @@
     ],
     [
      "📰",
-     "Business Standard",
-     "Nifty eyes record as largecaps lead charge on strong corporate earnings - Business Standard"
+     "Nacionale",
+     "Why are the Nifty 50 and Sensex up today? Foreign buying and cheaper oil after the Diwali break - Nacionale"
     ],
     [
      "📰",
-     "India Infoline",
-     "Sensex gains 1200 points, Nifty above 25,300. Why is the stock market going up today? Explained - India Infoline"
+     "Business Standard",
+     "Nifty eyes record as largecaps lead charge on strong corporate earnings - Business Standard"
     ]
    ],
    "watch": "Check the economic calendar for today.",
@@ -258,16 +258,16 @@
      "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeTYtODdweFhZS2g5dDJRMGlWWl91dFozRmRBdTFSeDE0Ty1waXgtRUNVQUllVEl0dGpFMjYzZE5QeFU3Mk9KZ0c1OUI2cXYwUW1OcS0xWkNQR1J6WC16SUhsdXJZWjJKNGU5cXVhSmoxRllBQzZkZU5PbDRLMEtDUnhJV2hmU185X2pmY2ExWWpXeWliSzhJRFJWb1BDclN1dS1zXzQwNHpJamZWUnZaOWdiM0NBMi1WRW16YjNtQV8tQW9VU1Vtc3dXXzZRdFBNcGltV2o5UjV4eUN3ZEY0WERyZXhoWG_SAe8BQVVfeXFMTS1nc2N5SjYyWml1NzBGVHJzcUc1dFZlMmRHZFFxTGhNSlpzX0NMN3V6d2U3c09HSHJ2eUlfdXdnSVJfTE9uZ1dPWmMza0p3TEE3Uld1MGZkWUQyVG15M0ZvNGppS0hBQVljcTRURDJSZUV4V0hER21aRXZMMDlwaU9yaGhpcWc3NHJsdE9STm1Ja2FsTHV6aFRYY3dpc2tzQTFRR2g4dHdWSEtsNE1JZnhmdlY3dGpWbUtzbkUxZWw4V3hYS1ZTUUs1LUtCU3htbWZleVg1VTBJM1d2eURQUmRiZnQ2TktzRGFYWTQ2NE0?oc=5"
     ],
     [
+     "Nacionale",
+     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTRNUzNxUVg4R0NZRUxITEttVEVRbzVlN2JPN2dlSzlndHgxd3ZENU5JcVI2d1VOcjU0aVFFVkUyT2QzRkJpUlIySE1sY0JnVkJfM09VN1VJODB0U005TnRnd3Nfa29qeGhSQl94bnVIZjh4WmpCbWQ2NkJlUEwyWThVRmJDazlrX1VhMTBKVTFLWGFjZHlfYjBMQ3VWaEh2UERxZTRaYmE?oc=5"
+    ],
+    [
      "Business Standard",
      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc0hnSUgxWkhNRU1wMXNhNHFrRDVyTGxwMVd4b0lKdmtxVkc5YTlIdVVMekZMMzNrbG4zTGZfb0gxN1NJWnc3Z09FeXBGdHRmOV9Dc0dtalNudVNLRXBPei1YWEJGUlpLUUVJM0VkbzRnN2JZUWtCTm8tQ3dKaU1Ec0JFMlg1RkZic3c0czJBSzFXX2tER2FjS2RSckt0elhVV3Bhck04QUJoOTg3enlEbnVaTUxuclpjWkJPYWtaWHhkN19SZWRvYl9OTWZlampNN1NwQdIB2gFBVV95cUxQTW93YWJDVDNQUlZyT051YWU0dkVZNDktRXZrSXdVdE9HbjBQV0x2Y05iZ2otVTFrbEg0ajBhM3V2cXA4TVk1dHVqaDRqSExRWEl5aUxsX0tiSnBoRXZrajFTd1B1YnFZbEEwWVNSOGlRWVZTa3A1dnc0QkJnZy1HcWZhcVZCMDJkWUdDZDkwM3VXSUlpVHFHeDdlbXE1YXpyWklWMklrNFE4X2JOaGRpcjlPZzRjZHBfTHFzRzB5aFFzUjd2cDI0SnBPUjRsR2FhRkUybkJnRWt5dw?oc=5"
     ],
     [
      "India Infoline",
      "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX3RGU2lRT012Wk4yMjEyNEhmSnhpUUwweVpWU2padWJzMnFwSkg1SEh6N3RjZzIyYWlDejRqcFVQWU0xbFpmVW9lQ3gzZU9DMzdvVW1KQ0ctS2pxRE5vdGgwRUFkN1pzSEdaMlg3aC1tTDVvQXpjRmV6bEpGN1UzU3ZUSGNIMkhUcmltc1NBSmhxZ2N2MWZlajJjMEFtVTktZ0dwX1ZUalE3N2FUd2YtZ3pPWDBXVzR4N3hKRkdqekNPRG14YldtSHZabUtrVTQ?oc=5"
-    ],
-    [
-     "HDFC Sky",
-     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajNadXBWalFjeHRpRk9FcS1IbTloM2pFdXYzRHFQWmZWbm5XUDN2bHlGNzlHc1M0RmdYZng3OVBoN2NMNkxmR2xveFB0WldvbUd3T0hfZkZWcjRaQUFyNHA4Z0UzM1hfZ2R5MV81NzVPbjFfLWxZazdKaW1zc3owSFZpa1RuRVJLV3BnbXoxLWswLXpjV0I3Q3doUm1GWGtzRjZhSG1KMm5VNkk?oc=5"
     ]
    ]
   }
