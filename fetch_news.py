@@ -1,11 +1,12 @@
 """ledggit news fetcher. Free, standard library only.
 Reads public news RSS + the weekly economic calendar, optionally asks a free
 Gemini key to summarise, and writes news.json for the app."""
-import json, os, time, datetime as dt, urllib.request, urllib.parse
+import json, os, time, datetime as dt, urllib.request, urllib.parse, urllib.error
 import xml.etree.ElementTree as ET
 
 UA = {"User-Agent": "Mozilla/5.0 (ledggit news bot)"}
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")  # change if Google renames it
+MODELS = [m for m in [os.environ.get("GEMINI_MODEL"), "gemini-2.5-flash", "gemini-flash-latest", "gemini-2.0-flash"] if m]
+GOOD = []  # remembers the model that worked
 KEY = os.environ.get("GEMINI_API_KEY", "")
 CAL = "https://nfs.faireconomy.media/ff_calendar_thisweek.json"  # check its terms before going public
 
@@ -22,8 +23,12 @@ def get(url, data=None, headers=None):
     try:
         req = urllib.request.Request(url, data=data, headers=headers or UA)
         return urllib.request.urlopen(req, timeout=25).read()
+    except urllib.error.HTTPError as e:
+        body = e.read()[:300].decode("utf-8", "ignore")
+        print("HTTP", e.code, url.split("?")[0][:100], body.replace(KEY, "***") if KEY else body)
+        return None
     except Exception as e:
-        print("fetch failed:", url[:70], e)
+        print("fetch failed:", url.split("?")[0][:100], e)
         return None
 
 def headlines(q):
@@ -70,18 +75,22 @@ Calendar (high/medium impact this week): {json.dumps(events)}
 Reply with JSON only, in this shape:
 {{"head":"one short headline","plain":"2 simple sentences on what is happening and why it matters for {info['name']}","bias":number from -1 (bearish) to 1 (bullish),"tag":"2-3 word label such as Leaning cautious","pts":[["emoji","short title","one sentence"],["emoji","short title","one sentence"],["emoji","short title","one sentence"]],"watch":"the next key event to watch","plan":"one sentence on how to approach the day"}}"""
     body = json.dumps({"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"responseMimeType": "application/json"}}).encode()
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={KEY}"
-    for _ in range(2):
+    for model in (GOOD or MODELS):
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={KEY}"
         raw = get(url, body, {"Content-Type": "application/json"})
+        if not raw: continue
         try:
-            r = json.loads(json.loads(raw)["candidates"][0]["content"]["parts"][0]["text"])
+            txt = json.loads(raw)["candidates"][0]["content"]["parts"][0]["text"].strip()
+            txt = txt.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+            r = json.loads(txt)
             if all(k in r for k in ("head", "plain", "bias", "tag", "pts", "watch", "plan")) and len(r["pts"]) >= 1:
                 r["bias"] = max(-1, min(1, float(r["bias"])))
                 r["pts"] = [p[:3] for p in r["pts"][:3]]
+                if not GOOD: GOOD.append(model); print("Using AI model:", model)
                 return r
+            print("AI reply missing fields from", model)
         except Exception as e:
-            print("ai parse failed", e)
-        time.sleep(8)
+            print("AI reply unreadable from", model, e)
     return None
 
 def fallback(heads, events):
@@ -93,6 +102,7 @@ def fallback(heads, events):
             "plan": "Keep size small until you have formed your own view."}
 
 def main():
+    print("AI key found" if KEY else "NO GEMINI_API_KEY found - headlines only")
     cal = calendar()
     items = {}
     for k, info in INSTR.items():
