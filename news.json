@@ -1,12 +1,17 @@
 {
- "updated": "14 Nov 2026 10:03 UTC",
+ "updated": "14 Nov 2026 17:47 UTC",
  "items": {
   "gold": {
-   "head": "Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets - FXEmpire",
+   "head": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco",
    "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
    "bias": 0,
    "tag": "Headlines only",
    "pts": [
+    [
+     "📰",
+     "Kitco",
+     "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco"
+    ],
     [
      "📰",
      "FXEmpire",
@@ -14,13 +19,8 @@
     ],
     [
      "📰",
-     "Howl.Link",
-     "Gold Price Forecast, XAUUSD Analysis And Trading Strategy - Saturday, Nov 14 - TalkMarkets - Howl.Link"
-    ],
-    [
-     "📰",
-     "Kitco",
-     "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco"
+     "StoneX",
+     "Gold Technical Outlook: XAU/USD Bulls Fight to Hold Breakout Support After 7% Rally - StoneX"
     ]
    ],
    "watch": "2026-11-10 04:00 USD FOMC Member Waller Speaks (Medium; forecast n/a, previous n/a)",
@@ -29,33 +29,33 @@
    "name": "XAUUSD",
    "src": [
     [
-     "FXEmpire",
-     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdzdCM1hzb2FXaGNBanJoWDJac05XeXpWX3R6WUJKZ1JTbTZyVHM1TmQyRlYzQlRIdmozb2ltem1hdnNvN1FaZi1GdFczYV81YnhxeDBnSGhzSURzOTREcnpPV0xDaEdKWFVSZVdFandqWFB4a09jcE9aTTQ2Und1SFgwdEpEV0NLaVRLeUhMSUJFSnBWN25HSFZ6UnUzY05mZzVrMWpxYXViUlAzcWV1aVM3SXVLZ3RPOWg1aFlB?oc=5"
-    ],
-    [
-     "Howl.Link",
-     "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9zUktrZXo1ZTZHeDV2M1lUempKRWxvZnF1V1AtQmw2YXRELW9mWXM0eF9RVGxmYjdaZUg4?oc=5"
-    ],
-    [
      "Kitco",
      "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5"
     ],
     [
+     "FXEmpire",
+     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdzdCM1hzb2FXaGNBanJoWDJac05XeXpWX3R6WUJKZ1JTbTZyVHM1TmQyRlYzQlRIdmozb2ltem1hdnNvN1FaZi1GdFczYV81YnhxeDBnSGhzSURzOTREcnpPV0xDaEdKWFVSZVdFandqWFB4a09jcE9aTTQ2Und1SFgwdEpEV0NLaVRLeUhMSUJFSnBWN25HSFZ6UnUzY05mZzVrMWpxYXViUlAzcWV1aVM3SXVLZ3RPOWg1aFlB?oc=5"
+    ],
+    [
      "StoneX",
      "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQlR0N09nOWJ4Tkthb3VGVFBJYklGSU50RHNGNG96elA5aWpnOGFVVGlUYUU1aVRKWUlyZElEZjJQRWFFcC1rV2ZDZ3ZNTkwzSEdkOE5qb1hrLS12T0tFRVFld0I2bWVnZ0FyakQ4eElJUE5rcVVZV0RrYkJlMWlOQ0pMYm5UR0YtUlg1RzRvRE9nUlZ0TEo4dWJoc0RtQTRBemhtMXdZdXhhOEFKWktDZGRuRDNuWlFlVUMxdnhwSHhVUGJJQzB2SW84NW4?oc=5"
+    ],
+    [
+     "TradingKey",
+     "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXYUYtXzJ5MUQ3Q0dqanZ1VjhZcGk2emdzU2hITXhDZl84NmVweXpqeXJlcE1aNXJveVZBdks1TXctbTcyMU1iUzdSdWpmUmRpb3RSUGNQTDU1S3dXVmFKNQ?oc=5"
     ]
    ]
   },
   "eur": {
-   "head": "EUR/USD (EURUSD=X) Live Rate, Chart & News - Yahoo Finance - Yahoo! Finance Canada",
+   "head": "EUR/USD (EURUSD=X) live rate, chart and news - Yahoo Finance UK",
    "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
    "bias": 0,
    "tag": "Headlines only",
    "pts": [
     [
      "📰",
-     "Yahoo! Finance Canada",
-     "EUR/USD (EURUSD=X) Live Rate, Chart & News - Yahoo Finance - Yahoo! Finance Canada"
+     "Yahoo Finance UK",
+     "EUR/USD (EURUSD=X) live rate, chart and news - Yahoo Finance UK"
     ],
     [
      "📰",
@@ -64,8 +64,8 @@
     ],
     [
      "📰",
-     "Yahoo Finance UK",
-     "EUR/USD (EURUSD=X) live rate, chart and news - Yahoo Finance UK"
+     "Yahoo! Finance Canada",
+     "EUR/USD (EURUSD=X) Live Rate, Chart & News - Yahoo Finance - Yahoo! Finance Canada"
     ]
    ],
    "watch": "2026-11-10 04:00 USD FOMC Member Waller Speaks (Medium; forecast n/a, previous n/a)",
@@ -74,16 +74,16 @@
    "name": "EURUSD",
    "src": [
     [
-     "Yahoo! Finance Canada",
-     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
+     "Yahoo Finance UK",
+     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVm5mak5jUHN2V1ktajNpZjdHRjVKUlFWLTZsTWtROWp6M2xWU2xaM3Y2NHZOVDRKLXl6UkxaYmJJeVFsQ3dsWUE1Mmlsa2tCNkNZaEJseTF5Zw?oc=5"
     ],
     [
      "StoneX",
      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTcycHAzcXRlejhWTk1TX3dQUnpicko0bUhEUGFsUHFLQ0NOcERFcW1QNmhaRFpmMlZLRUN5Njhla1BpcGQ3NlFVWVh6bGxrQlFQd2tYeHpPTS1ETGtId0QxaExIaVFGRVh1bmdua0htZXFKb0x0TktILVhnNTNfSkVxcnppUjVZR3p1eVBTVHRQZlplbnRlWlNRbFZFX3JJSEpGdkpqdUI4Ri1DTUVtTEZRV1pIenUzUVBJZTcxYUhDdw?oc=5"
     ],
     [
-     "Yahoo Finance UK",
-     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVm5mak5jUHN2V1ktajNpZjdHRjVKUlFWLTZsTWtROWp6M2xWU2xaM3Y2NHZOVDRKLXl6UkxaYmJJeVFsQ3dsWUE1Mmlsa2tCNkNZaEJseTF5Zw?oc=5"
+     "Yahoo! Finance Canada",
+     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
     ],
     [
      "TradingView",
@@ -120,7 +120,7 @@
    "src": [
     [
      "Yahoo Finance UK",
-     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xNE1OeFNncW80ZmVFcnNiQTdjMXNCUHFwRkltQloxblNKbFI1eDdlOGotVFc0WE9KdUJSQXVjSnJ0TGF0dmFqaGRib2JCbmpjMU9VaXU1cw?oc=5"
+     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NbzZVOXY1Z0JsbVlxU2paRTdhaDZSTFJ6RzRCLUF1ek1EcW9JeEFXUWdHem15UW0ydzAzYTNDSy1xWHNWS1d3c3lGOHdjQXZTQlN2Y1l6NDNEUQ?oc=5"
     ],
     [
      "FOREX.com",
@@ -149,13 +149,13 @@
     ],
     [
      "📰",
-     "StoneX",
-     "Japanese Yen Forecast: USD/JPY Seven-Week Resistance Standoff Faces Fed, BoJ - StoneX"
+     "FOREX.com",
+     "USD/JPY Tests 160.00 – Breakout or Fake Out? - FOREX.com"
     ],
     [
      "📰",
-     "FOREX.com",
-     "US Dollar Price Action Setups: EUR/USD, USD/JPY - FOREX.com"
+     "StoneX",
+     "Japanese Yen Forecast: USD/JPY Seven-Week Resistance Standoff Faces Fed, BoJ - StoneX"
     ]
    ],
    "watch": "2026-11-10 04:00 USD FOMC Member Waller Speaks (Medium; forecast n/a, previous n/a)",
@@ -169,15 +169,15 @@
     ],
     [
      "FOREX.com",
-     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDE1aERBSW5CZm1MSjBqRl9tRm9qekJJMXY5Y3Q1cTBKMk4yU3lNc3lSQ0hVM3QzeUVPUVZGM0pSMlBWdTJOVHpFbUF4V1JfWWl1LVJDSnFwc3RYUmhEMHk4R0VwY0wwUTFwOXg4RTh6VWd2R3pNc0o3SXplblNvS0k3MVo5YjRSeGRlT0lMcWZsWmhEU2VndkpSS2hzSmF0T1RHaTNR?oc=5"
+     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWHVIX1FGVWN4YzlIUHplSGRuUlFGamktQ0JFV3RyX25MTVhsSUFoY1NvSFpZTDQ0MHBXQVM2Qi1SNUp5cjljZGQ4dGVfWXM2eVhsY3AxZDdfaEdxNFNXNWozTF9PZjdaeVMxMWRiNEZESTBvYU00ZTdHa2JVMVczZ0ZkSzlYaERvWDROVzdxQ294UdIBngFBVV95cUxOYVlKczZ3QmhhU0p6VHlzZFRKcDZtcjRxMGlweXdpbm9LajJVWDVYOFczWmVSOEtUY1Z1NjVtRC0tTV84OGdjT2xOVm1zOEpaemxMUGdzVVFVTlVDcHBoUmpKaWhCT2h2RzQ0YlB2ejRLdlU0bm5GMnM4UER5UUVMWkFBM2NWcDFzWWNsMktCclFBUUNiam52TnpoWThRQQ?oc=5"
     ],
     [
      "Moomoo",
      "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdm95N2RmMC1fTG9kMExTZDRET0p4NDhLcTk5c2I2alJQZEFpWVhIYzJyelU5UW85c3BwSm9qel91a1V5Vm1GZWR2VVNPOHF5eGtCN09ZSkNjVXhpbzA4d29VZkVqTkU4TUJyTnJleEdhSWlBNUhIaHNjYTRNQW9MdXR2R2Q2SEhqMllUdWNaLVROSTZuNWdVWXln?oc=5"
     ],
     [
-     "Newsquawk",
-     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHlxM1pJVjE0Wms3ZmNkWE85dUZXTFRJdWl0WDROX0UyQ3U0RXFYWE9TUEgtellubnJnTEZVX2VSSHNWMmNDSkdhRWpnNTdSRlVFazkzUklpWEtKaHlBd2NScHo3X1FlRG9uU2hnbW52RXluQjZfV19jMzJoU3h6MFZpNmVNUXJsSG83cFM1X1FoRkd6M3c?oc=5"
+     "Mitrade",
+     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbzVUTHJYWVlyV2FYLWI0RzNiWjdmcW02ajYyMmRsaDAwM0ZHM3RaNUhSdW4wTmVabTdiQ1IyMDJ5czNfaW5xSWpIUUk0MU45dWhNQ1lDZFJVblBhMlZ4UWxlUzFWVVk?oc=5"
     ]
    ]
   },
@@ -227,16 +227,11 @@
    ]
   },
   "nifty": {
-   "head": "Market weekly wrap: NIFTY50, SENSEX extend rally for 3rd week; PSU Banks top sectoral gainers - Upstox",
+   "head": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky",
    "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
    "bias": 0,
    "tag": "Headlines only",
    "pts": [
-    [
-     "📰",
-     "Upstox",
-     "Market weekly wrap: NIFTY50, SENSEX extend rally for 3rd week; PSU Banks top sectoral gainers - Upstox"
-    ],
     [
      "📰",
      "HDFC Sky",
@@ -244,8 +239,13 @@
     ],
     [
      "📰",
-     "Univest",
-     "Stock Market Prediction for Monday: 16 Nov Levels, Nifty 25,144 - Univest"
+     "Rediff",
+     "Stock Markets Today: Sensex, Nifty fall as inflation concerns weigh on markets - Rediff"
+    ],
+    [
+     "📰",
+     "Free Press Kashmir",
+     "Sensex recovers over 400 points from day’s low, Nifty climbs above 25,200 - Free Press Kashmir"
     ]
    ],
    "watch": "Check the economic calendar for today.",
@@ -254,20 +254,20 @@
    "name": "NIFTY",
    "src": [
     [
-     "Upstox",
-     "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMWlBS0s0Y09Oa1J6eHpzYXcyZjgyQllHcnFVeFJCNTgtOWtMZ2RPdzhNNWxVSG5NYThGWDQ1cTZGQ0dBQXJPM1BPUG5pYVZPRHhmaDhlVmxHZDM2X1ZOaUd4QWtGZ2p4TFdtLXA3SzFrM1VtSHNqRlNTdkhlWjNXNy02eWs2eTFBc3Q3eFpXOFN3cmlRbnd0aUtvaHc4bmloWWc1eG9udDBNNnRCQTJiMXdkNk5LVDBpc01kTmJxNzlKREt1MFBMaElOMkx5UjUwTWVSMzJPMmk2Nlp3M1NkbTFkWXZGTUxmZk1ERUhTU19zSDg1MFM5QzQ2OGpGSVNpWENSOXhSdWFFZw?oc=5"
-    ],
-    [
      "HDFC Sky",
      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdFVmU2E4X1lka1dTRGNSZzVfUEl2ZGl4UnNJdTEtVHZxelI2SXFwalhqVWtaMERsNm9Fc0tiS3psZUpNY25VN0hwcXlmb3lLNlp6TURNY0xyYUQ4bDN5cVdSdFFYRUtEN2lKY205MnRxZ3VCZXhVaTVOUWhKbDBwVXVVMHE2WjBEelFLSEtXczYyTTRyTTNWNjlHMURxT2ExZWlMYXl5ZnUwUWFFVUttTlVBR05nTGhaWGxhNTZ3eGVBTEE?oc=5"
     ],
     [
-     "Univest",
-     "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tSkxiMER6bmdycEdzWDhIQTFlYVF6a0JJY3h0VWNFTGEzOG5raUFyNG1Wb0dWSFdNaFJHZURjQi1rVDEzeHFEUWtJdmlZeHU5SkxOYnNZMWM5OTlnY1ZDWkR5ekQwcnZwby1SaDl2bkQ?oc=5"
-    ],
-    [
      "Rediff",
      "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZk5GMVZZVVZYUU9PenIwbHFmTzE5MzlDWnN0X0J6bTY0Sng1SjNHYjIxRUFFZlA1OWpodXpYcW11Qk01MWRra29mblRORndpRGJBdEhOTkV6MjFGQUVfTGN5Q0Q0RlNKdlZPOWlYY0NnSF83Z0kyVkdiZ3kzSTNQalFYMzJMT2tyeVI1S3FhVU5hMzZrRlBfdmp3dllQSjJzMVlDYTZwZnJSQlFjb2pSTWdqZWd1QkFxaVpYdlprQnczU2I3eC1EcWF6dVpGYmJDdDdkY2QzajE2Snk3MHVfWU9n0gHkAUFVX3lxTE40YnM5akZ1cmlyeGRSdnlONURUdC1yTEptQ3Q2YzJmV2ZOaVd5blg2UnpYYWZPbTEwTTZRSG5ZX0E0VmdxSDgtTTlwMGpUOGE3US1WTW1lbWtHeUtuajJ1VHFzUm14VHNwQy1JbXFWWWplMllpZTlyVGgzOUloLXp2UW1DMTRPbkhEVkdjWHhzdGhWcHA1aHhtY0c4QS1vV1RpcUlwUFdnYjNxSFRjQVRLdkVWTFBIWk9mUVVqOEoyTC1penhYTEVNNnBydHp0QXJwNEtpa1RDYXB6ZWFCUF9LWnF0Qg?oc=5"
+    ],
+    [
+     "Free Press Kashmir",
+     "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjdoNHROM1dHdEtOX3I0b0JfdGZUNklqNEJZRzk3MW5tcVhaZURHV2gzYTlQNi1YTkJfSFkyRnZFeDQxWWJxZEp2RkdWYkVnT1JVQU9VOTRIandjZGtUUFpHMUZpc0RjYTBkZHVLUnMxdDNmX1lCN1pqZUFtT0gyeWk3QnYyMWV3S3RaVnFlUmhKcDRfTFBGQmp2Zl9zSXZLMU5nazEzZ1N1RUJkNVdNRS1R0gG3AUFVX3lxTE1BaE1STGJIZzNPcUZHZUdzdHFqUXo2WjVIQzlFMS1SOGtKZXZaelNkN1RzY0xjTm5xQnh2cXFQUHphUGhNYlFsZGhOeDlxVDVhUE16R1JTemhRRkxLUEFDbFBFTFFLSDJDQkFhTGJCa1FhamlzZHI0dkloVmFJODUxZnVJYTgzX1J1ZS02VG5ERVFDalZsZnFsa2tJeVhiSlliYk9pNlFQazJaM2UxWXBHWTNZV0tFYw?oc=5"
+    ],
+    [
+     "Upstox",
+     "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMWlBS0s0Y09Oa1J6eHpzYXcyZjgyQllHcnFVeFJCNTgtOWtMZ2RPdzhNNWxVSG5NYThGWDQ1cTZGQ0dBQXJPM1BPUG5pYVZPRHhmaDhlVmxHZDM2X1ZOaUd4QWtGZ2p4TFdtLXA3SzFrM1VtSHNqRlNTdkhlWjNXNy02eWs2eTFBc3Q3eFpXOFN3cmlRbnd0aUtvaHc4bmloWWc1eG9udDBNNnRCQTJiMXdkNk5LVDBpc01kTmJxNzlKREt1MFBMaElOMkx5UjUwTWVSMzJPMmk2Nlp3M1NkbTFkWXZGTUxmZk1ERUhTU19zSDg1MFM5QzQ2OGpGSVNpWENSOXhSdWFFZw?oc=5"
     ]
    ]
   }
