@@ -1,21 +1,21 @@
 {
- "updated": "14 Nov 2026 17:47 UTC",
+ "updated": "14 Nov 2026 22:03 UTC",
  "items": {
   "gold": {
-   "head": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco",
+   "head": "Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets - FXEmpire",
    "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
    "bias": 0,
    "tag": "Headlines only",
    "pts": [
     [
      "📰",
-     "Kitco",
-     "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco"
+     "FXEmpire",
+     "Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets - FXEmpire"
     ],
     [
      "📰",
-     "FXEmpire",
-     "Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets - FXEmpire"
+     "Yahoo Finance",
+     "META_TITLE_QUOTE - Yahoo Finance"
     ],
     [
      "📰",
@@ -29,29 +29,34 @@
    "name": "XAUUSD",
    "src": [
     [
-     "Kitco",
-     "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5"
-    ],
-    [
      "FXEmpire",
      "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdzdCM1hzb2FXaGNBanJoWDJac05XeXpWX3R6WUJKZ1JTbTZyVHM1TmQyRlYzQlRIdmozb2ltem1hdnNvN1FaZi1GdFczYV81YnhxeDBnSGhzSURzOTREcnpPV0xDaEdKWFVSZVdFandqWFB4a09jcE9aTTQ2Und1SFgwdEpEV0NLaVRLeUhMSUJFSnBWN25HSFZ6UnUzY05mZzVrMWpxYXViUlAzcWV1aVM3SXVLZ3RPOWg1aFlB?oc=5"
+    ],
+    [
+     "Yahoo Finance",
+     "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LRXk3WmZ5Y1MwZVR2TUhJNEJYakk2Z3ZPbHkyWklVNkdJTnB3bjBpb0ctRzhrUzNhUmstaFJfUkJ0SVZ3VmRGTVJGS3F3aG95?oc=5"
     ],
     [
      "StoneX",
      "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQlR0N09nOWJ4Tkthb3VGVFBJYklGSU50RHNGNG96elA5aWpnOGFVVGlUYUU1aVRKWUlyZElEZjJQRWFFcC1rV2ZDZ3ZNTkwzSEdkOE5qb1hrLS12T0tFRVFld0I2bWVnZ0FyakQ4eElJUE5rcVVZV0RrYkJlMWlOQ0pMYm5UR0YtUlg1RzRvRE9nUlZ0TEo4dWJoc0RtQTRBemhtMXdZdXhhOEFKWktDZGRuRDNuWlFlVUMxdnhwSHhVUGJJQzB2SW84NW4?oc=5"
     ],
     [
-     "TradingKey",
-     "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXYUYtXzJ5MUQ3Q0dqanZ1VjhZcGk2emdzU2hITXhDZl84NmVweXpqeXJlcE1aNXJveVZBdks1TXctbTcyMU1iUzdSdWpmUmRpb3RSUGNQTDU1S3dXVmFKNQ?oc=5"
+     "FXStreet",
+     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN2o0bGFjWHM1R19zczQzNHRzeWRsamFkNXhnNnN6c29CWVR6UjNValNiZHBJcFVqdEQ2Z0V1VlBxM1hqQVZCSjYteEhZUC1KVTYwYnc4aDFrMGRscWMtR3dEd3hnS2xGbDFCRmFuZU9wM3FMb2ZFelpHQWNsSEd5RkkxS1JPcUhOUnlzZzZBWXdST2FTUmZPWVI0YzlNb2I1UUFSRzFyRmY0TzhLWGFCeTNCNk1FaEVYdXZxc094cFdvZGJiY3QyTDRR?oc=5"
     ]
    ]
   },
   "eur": {
-   "head": "EUR/USD (EURUSD=X) live rate, chart and news - Yahoo Finance UK",
+   "head": "EUR/USD - CME Group",
    "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
    "bias": 0,
    "tag": "Headlines only",
    "pts": [
+    [
+     "📰",
+     "CME Group",
+     "EUR/USD - CME Group"
+    ],
     [
      "📰",
      "Yahoo Finance UK",
@@ -60,12 +65,7 @@
     [
      "📰",
      "StoneX",
-     "Euro Technical Forecast: EUR/USD Five-Week Range Puts Yearly Lows on the Line - StoneX"
-    ],
-    [
-     "📰",
-     "Yahoo! Finance Canada",
-     "EUR/USD (EURUSD=X) Live Rate, Chart & News - Yahoo Finance - Yahoo! Finance Canada"
+     "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle - StoneX"
     ]
    ],
    "watch": "2026-11-10 04:00 USD FOMC Member Waller Speaks (Medium; forecast n/a, previous n/a)",
@@ -74,20 +74,20 @@
    "name": "EURUSD",
    "src": [
     [
+     "CME Group",
+     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TOHhsc003RkJFbkd3V1RWbUhmY1BacUR5anNONTZiR29xbmZ2Umx0RDVWNEdwRWZmY2EyNUloclZXYVZLWWVTTGNNYjRwNFB1NHJ1Zk5kbWExZGs?oc=5"
+    ],
+    [
      "Yahoo Finance UK",
      "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVm5mak5jUHN2V1ktajNpZjdHRjVKUlFWLTZsTWtROWp6M2xWU2xaM3Y2NHZOVDRKLXl6UkxaYmJJeVFsQ3dsWUE1Mmlsa2tCNkNZaEJseTF5Zw?oc=5"
     ],
     [
      "StoneX",
-     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTcycHAzcXRlejhWTk1TX3dQUnpicko0bUhEUGFsUHFLQ0NOcERFcW1QNmhaRFpmMlZLRUN5Njhla1BpcGQ3NlFVWVh6bGxrQlFQd2tYeHpPTS1ETGtId0QxaExIaVFGRVh1bmdua0htZXFKb0x0TktILVhnNTNfSkVxcnppUjVZR3p1eVBTVHRQZlplbnRlWlNRbFZFX3JJSEpGdkpqdUI4Ri1DTUVtTEZRV1pIenUzUVBJZTcxYUhDdw?oc=5"
+     "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVJmemJ0bVlxVHY1cjd4RHplUi01bE5XTC1LUW53MGZRcUQ0SjUwZ0kxR1VxNFRkRHhMTjdfRWc2Mmp6Q3VVc2xEakVtUnRBakY0S2hhd095X0NKZ3doN3I3SnQ1TTlfdVZEVmEzWnBUVlUtM2dNLUtzWEMyNDFVM1VOZ3NwM3BPUU1faWs4aHQ4dzVjMzR2c0Yzb1g1dG9jbmtFYVA5dzRxd0hMNlNYVjNB?oc=5"
     ],
     [
      "Yahoo! Finance Canada",
      "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
-    ],
-    [
-     "TradingView",
-     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaEdLNVB4VnRfVGlwYVlQMTJmZE5lMUl3OG0tbjBtOE9wcGtOYWo1b3BpWjVTejhucmpfT3BJQ29yMVlWaWd0bURYTTI0ZXkyZUVMbGlzNUlCZGdUdUxSd3ZVT1Y5VW02Um9KVy14c1diTzdNTFdDcVk3enRsa0ZxMmxuLUNYN1FCWl9nVVNQOFNld0t3YXY1YzJ4cjBiMG9ZNWktbXVnRFA4RHViNXo2ejJGTEZQQVY0MjZqdW1yZVRRcjhGMkFyZEE2UHVMY1dET0dlQnpWSXI?oc=5"
     ]
    ]
   },
@@ -104,8 +104,8 @@
     ],
     [
      "📰",
-     "FOREX.com",
-     "British Pound Forecast: GBP/USD Plunge Puts Yearly Range on the Line - FOREX.com"
+     "StoneX",
+     "British Pound Forecast: GBP/USD Plunge Puts Yearly Range on the Line - StoneX"
     ],
     [
      "📰",
@@ -123,8 +123,8 @@
      "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NbzZVOXY1Z0JsbVlxU2paRTdhaDZSTFJ6RzRCLUF1ek1EcW9JeEFXUWdHem15UW0ydzAzYTNDSy1xWHNWS1d3c3lGOHdjQXZTQlN2Y1l6NDNEUQ?oc=5"
     ],
     [
-     "FOREX.com",
-     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFo1RUxnTHdrRlRDZXB6OGUxMlVWelNOSG9HWS0zaEMxS0o5QllxUUVUeDhFTjdhdkFJYTliN1hnSHBhdU5sTWRkUVhlMUhVTmJyZGtsNWxZZnZYX3VpS2NybEVORVZYNzU0cWN3M2JkYThoMF9nc3RyMEJUalZVeUN0V2wyZWhUdHJRbFhEa25aZXVwRGVMdG1uWmVid0RSLUdNbHdxbnpDSWlQYkpjTURaRXlPd0VWSjN5ODIxWmJGVlnSAc8BQVVfeXFMTld0MzlkaTJrWDJXQktRMGxzZEJGWGZTSjZhNFg2ek9wUG5VNmhLQm9iOW9BLW5oUDlSMjJ5N3lnVjlyT192c2hUQTJvMGFxWEk4SThzY2lmSWE3aTA5QkQzaVFzd0NUUjVuenpCMXZaR1JIY1IzZzRVNjBOMFVpQXg1ZFc2bVlDNWxYYjExOExlYXF5VThsNF82VGFvZDVyX2pDUXU3R1owYlZ0M3JLOUprWFNpMHIxeGZ5VktiMEFMb3RRenZ0b1B2VVdGMDIw?oc=5"
+     "StoneX",
+     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY0dnbFZjRThMUThKY1RHdVFWWEZaanVtcU5qOWdKV3lnaW4telJKU1hNTWdEUzVHZzR6TzF4OE1yWE9oT1JpNUdrd01OZUJLVzFNV2pZVUdCVDRISkJySFY2bnJhU2ZjekF4bWZtb2R1VWs0bl9tbFVXU0VFcHFHWUtTUGdHUndhM19HTVF6bjZsQjJtWkFCTDMzR1Npa05XNnBJTU1SZVFrLWJQQXlEdTFTQ05Ddw?oc=5"
     ],
     [
      "FXStreet",
@@ -149,13 +149,13 @@
     ],
     [
      "📰",
-     "FOREX.com",
-     "USD/JPY Tests 160.00 – Breakout or Fake Out? - FOREX.com"
+     "StoneX",
+     "Japanese Yen Forecast: USD/JPY Seven-Week Resistance Standoff Faces Fed, BoJ - StoneX"
     ],
     [
      "📰",
-     "StoneX",
-     "Japanese Yen Forecast: USD/JPY Seven-Week Resistance Standoff Faces Fed, BoJ - StoneX"
+     "FXStreet",
+     "USD/JPY Price Forecast: Bulls test 160.00 as intervention risks rise - FXStreet"
     ]
    ],
    "watch": "2026-11-10 04:00 USD FOMC Member Waller Speaks (Medium; forecast n/a, previous n/a)",
@@ -168,16 +168,16 @@
      "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMjhWOC14RndaNWYwRlA2SkhLNldUNk9Hc0RlQklGVXdvZVZUS2ZPY3MyTDRMTi04Ukp2OU5DbjhKSlNkOWNlR2Y4MEFOaWJYbjlveEhneTJVZDkxUnpGZk5MeEsxVGFNazlxbXFQUWgxOW90TURjNHMxOGNNVWhMdDNuNEZSRUMwRGh6Sm9KODZLVXFDY01YdEJkWEdTaXk4Zllqcjhfa2cxVC1iTTA0bVc3YkVJYXdxekNuMU9vMWk5cFdfNGpV?oc=5"
     ],
     [
+     "FXStreet",
+     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkVDMmRFalRvU0hfOFFsbGpWUnJQTzZhbzdrOWV6Z0dFbjhIRm5iS0ZvbFptX0hLWFpEVWo0eTl5OE5EbWdQRWNoR2lCSDR0dHY5VnFMTFRvZ0dsZjNuclhQaF9HZlo0aDM3eFFzaVpDT1JXN0c4X3hpUTRjMXFwSUJXRVg1X1oxZU02MU9wUEhUQ05CNlpFdklUR3JvUDlhb2FOV3I5R2ZfbUZQd3c?oc=5"
+    ],
+    [
      "FOREX.com",
-     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWHVIX1FGVWN4YzlIUHplSGRuUlFGamktQ0JFV3RyX25MTVhsSUFoY1NvSFpZTDQ0MHBXQVM2Qi1SNUp5cjljZGQ4dGVfWXM2eVhsY3AxZDdfaEdxNFNXNWozTF9PZjdaeVMxMWRiNEZESTBvYU00ZTdHa2JVMVczZ0ZkSzlYaERvWDROVzdxQ294UdIBngFBVV95cUxOYVlKczZ3QmhhU0p6VHlzZFRKcDZtcjRxMGlweXdpbm9LajJVWDVYOFczWmVSOEtUY1Z1NjVtRC0tTV84OGdjT2xOVm1zOEpaemxMUGdzVVFVTlVDcHBoUmpKaWhCT2h2RzQ0YlB2ejRLdlU0bm5GMnM4UER5UUVMWkFBM2NWcDFzWWNsMktCclFBUUNiam52TnpoWThRQQ?oc=5"
+     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDE1aERBSW5CZm1MSjBqRl9tRm9qekJJMXY5Y3Q1cTBKMk4yU3lNc3lSQ0hVM3QzeUVPUVZGM0pSMlBWdTJOVHpFbUF4V1JfWWl1LVJDSnFwc3RYUmhEMHk4R0VwY0wwUTFwOXg4RTh6VWd2R3pNc0o3SXplblNvS0k3MVo5YjRSeGRlT0lMcWZsWmhEU2VndkpSS2hzSmF0T1RHaTNR?oc=5"
     ],
     [
      "Moomoo",
      "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdm95N2RmMC1fTG9kMExTZDRET0p4NDhLcTk5c2I2alJQZEFpWVhIYzJyelU5UW85c3BwSm9qel91a1V5Vm1GZWR2VVNPOHF5eGtCN09ZSkNjVXhpbzA4d29VZkVqTkU4TUJyTnJleEdhSWlBNUhIaHNjYTRNQW9MdXR2R2Q2SEhqMllUdWNaLVROSTZuNWdVWXln?oc=5"
-    ],
-    [
-     "Mitrade",
-     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbzVUTHJYWVlyV2FYLWI0RzNiWjdmcW02ajYyMmRsaDAwM0ZHM3RaNUhSdW4wTmVabTdiQ1IyMDJ5czNfaW5xSWpIUUk0MU45dWhNQ1lDZFJVblBhMlZ4UWxlUzFWVVk?oc=5"
     ]
    ]
   },
@@ -194,13 +194,13 @@
     ],
     [
      "📰",
-     "LiteFinance",
-     "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance"
+     "Reuters",
+     "Oil prices set for second straight weekly drop on signs of growing supply surplus - Reuters"
     ],
     [
      "📰",
-     "Reuters",
-     "Oil prices set for second straight weekly drop on signs of growing supply surplus - Reuters"
+     "Yahoo Finance",
+     "Oil Prices Decline as Brent and WTI Head for Second Consecutive Weekly Loss - Yahoo Finance"
     ]
    ],
    "watch": "2026-11-10 04:00 USD FOMC Member Waller Speaks (Medium; forecast n/a, previous n/a)",
@@ -213,25 +213,30 @@
      "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
     ],
     [
-     "LiteFinance",
-     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
-    ],
-    [
      "Reuters",
      "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0ZTUUtQbXVySmRXLWtEc2xtZDk5RWkwa29OWlEyQjN3UXVzMkZTYzF3ajVoNkVXZnBnODVRTkN0b1ZwaVk4VE5KOXFqZktYbG1PN1RwdEtwS1ZEb3BBUEkxM2JtUl91NkxCMWpjbmxWV3RScndxMjJUcjh4dEpZM256Nl8tY19iWmp4OExndnRRaXQwdFRpMGRYRDFnNGQ1eEFhNEVrZjZwaW0tamJkLXFYa1I3V1EzbVE?oc=5"
     ],
     [
-     "EnergyNow",
-     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSWlSQ0JySWhtckl3S01IdjNPcndoTTVOUWVSRmRXLWw2b1U3R3hZeTdwcFM4S1pxNnRVa2dPMXV5Vk9SZWNXaEsyWVYtd2hTZkNBXy1SbjRiaFRFT2cxekVUbTZFXzY1LXJEMXA2WkNVdXhMVnBzbGdNSllPdjlmcS1DMzZTQmo1bDl3dGJIWFhDUzhtUDN1bEV3?oc=5"
+     "Yahoo Finance",
+     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHpKb0tmeWdhVUstcG5Sb2RPWGtZdzNDX2U3VHV0bU83Z3pmY1ZpVjI5ZjMwMkN5X3p4RExaUHRicFg1SkNDQzBZRERnMXZidmhqOW5ZRlVDa0tyQkVpNm55aklib0E5aVZZNFVoTVF1bXBJenVIOU9LWGlNekJyc2ZIbkptR1FneW9reGRB?oc=5"
+    ],
+    [
+     "LiteFinance",
+     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
     ]
    ]
   },
   "nifty": {
-   "head": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky",
+   "head": "Sensex, Nifty plunge over 2% as Trump’s speech gives no timeline for conflict end - DD News",
    "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
    "bias": 0,
    "tag": "Headlines only",
    "pts": [
+    [
+     "📰",
+     "DD News",
+     "Sensex, Nifty plunge over 2% as Trump’s speech gives no timeline for conflict end - DD News"
+    ],
     [
      "📰",
      "HDFC Sky",
@@ -241,11 +246,6 @@
      "📰",
      "Rediff",
      "Stock Markets Today: Sensex, Nifty fall as inflation concerns weigh on markets - Rediff"
-    ],
-    [
-     "📰",
-     "Free Press Kashmir",
-     "Sensex recovers over 400 points from day’s low, Nifty climbs above 25,200 - Free Press Kashmir"
     ]
    ],
    "watch": "Check the economic calendar for today.",
@@ -253,6 +253,10 @@
    "short": "Nifty",
    "name": "NIFTY",
    "src": [
+    [
+     "DD News",
+     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMV9GcWhEamdBUGZrbTFIVHpucmNaUWpOaVZFQktQX2lyRFAtY0hJcGJZSUREaUJQdXBvTk5lNVBidC0tV3JoUGtqSXRvbDUtNGZuYjBLS2hHc1UzOGY1QTdmb0VEN0E2d29yRFE4MlRuc3dUMXdjN0dPVG5BSkNFWVROYnNoN0FjX2RIc0EwSU1TQ1dyV1J4TENHZV9YQ2w1azduT1MwTQ?oc=5"
+    ],
     [
      "HDFC Sky",
      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdFVmU2E4X1lka1dTRGNSZzVfUEl2ZGl4UnNJdTEtVHZxelI2SXFwalhqVWtaMERsNm9Fc0tiS3psZUpNY25VN0hwcXlmb3lLNlp6TURNY0xyYUQ4bDN5cVdSdFFYRUtEN2lKY205MnRxZ3VCZXhVaTVOUWhKbDBwVXVVMHE2WjBEelFLSEtXczYyTTRyTTNWNjlHMURxT2ExZWlMYXl5ZnUwUWFFVUttTlVBR05nTGhaWGxhNTZ3eGVBTEE?oc=5"
@@ -264,10 +268,6 @@
     [
      "Free Press Kashmir",
      "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjdoNHROM1dHdEtOX3I0b0JfdGZUNklqNEJZRzk3MW5tcVhaZURHV2gzYTlQNi1YTkJfSFkyRnZFeDQxWWJxZEp2RkdWYkVnT1JVQU9VOTRIandjZGtUUFpHMUZpc0RjYTBkZHVLUnMxdDNmX1lCN1pqZUFtT0gyeWk3QnYyMWV3S3RaVnFlUmhKcDRfTFBGQmp2Zl9zSXZLMU5nazEzZ1N1RUJkNVdNRS1R0gG3AUFVX3lxTE1BaE1STGJIZzNPcUZHZUdzdHFqUXo2WjVIQzlFMS1SOGtKZXZaelNkN1RzY0xjTm5xQnh2cXFQUHphUGhNYlFsZGhOeDlxVDVhUE16R1JTemhRRkxLUEFDbFBFTFFLSDJDQkFhTGJCa1FhamlzZHI0dkloVmFJODUxZnVJYTgzX1J1ZS02VG5ERVFDalZsZnFsa2tJeVhiSlliYk9pNlFQazJaM2UxWXBHWTNZV0tFYw?oc=5"
-    ],
-    [
-     "Upstox",
-     "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMWlBS0s0Y09Oa1J6eHpzYXcyZjgyQllHcnFVeFJCNTgtOWtMZ2RPdzhNNWxVSG5NYThGWDQ1cTZGQ0dBQXJPM1BPUG5pYVZPRHhmaDhlVmxHZDM2X1ZOaUd4QWtGZ2p4TFdtLXA3SzFrM1VtSHNqRlNTdkhlWjNXNy02eWs2eTFBc3Q3eFpXOFN3cmlRbnd0aUtvaHc4bmloWWc1eG9udDBNNnRCQTJiMXdkNk5LVDBpc01kTmJxNzlKREt1MFBMaElOMkx5UjUwTWVSMzJPMmk2Nlp3M1NkbTFkWXZGTUxmZk1ERUhTU19zSDg1MFM5QzQ2OGpGSVNpWENSOXhSdWFFZw?oc=5"
     ]
    ]
   }
