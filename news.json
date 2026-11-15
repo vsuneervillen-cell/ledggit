@@ -1,30 +1,30 @@
 {
- "updated": "15 Nov 2026 04:57 UTC",
+ "updated": "15 Nov 2026 13:31 UTC",
  "items": {
   "gold": {
-   "head": "Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets - FXEmpire",
-   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
-   "bias": 0,
-   "tag": "Headlines only",
+   "head": "Gold Battles Strong Dollar Below $4,000",
+   "plain": "Gold is fighting to hold breakout support around 3878.220 after dropping below the key $4,000 level. Strong US Dollar momentum and ongoing Fed tightening fears continue to limit rebound attempts despite seasonal tailwinds.",
+   "bias": -0.3,
+   "tag": "Leaning Cautious",
    "pts": [
     [
-     "📰",
-     "FXEmpire",
-     "Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets - FXEmpire"
+     "⚠️",
+     "Support Tested",
+     "Prices traded down to 3878.220 as a break below $4,000 has prompted more analysts to turn bearish."
     ],
     [
-     "📰",
-     "StoneX",
-     "Gold Technical Outlook: XAU/USD Bulls Fight to Hold Breakout Support After 7% Rally - StoneX"
+     "💵",
+     "Dollar Pressure",
+     "Persistent US Dollar strength and mixed US PPI figures offer little relief from Federal Reserve tightening worries."
     ],
     [
-     "📰",
-     "TradingKey",
-     "XAUUSD|Gold|Price:3878.220|Chg%:+3.670 - TradingKey"
+     "🛡️",
+     "Bulls Fight Back",
+     "Buyers are attempting to mount a rebound and defend support following a prior 7% rally, helped by seasonal factors."
     ]
    ],
-   "watch": "2026-11-10 04:00 USD FOMC Member Waller Speaks (Medium; forecast n/a, previous n/a)",
-   "plan": "Keep size small until you have formed your own view.",
+   "watch": "USD Fed Chairman Warsh Speaks on 2026-11-16 12:00",
+   "plan": "Wait for clear defense of support against the strong dollar before taking fresh positions.",
    "short": "Gold",
    "name": "XAUUSD",
    "src": [
@@ -37,39 +37,39 @@
      "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQlR0N09nOWJ4Tkthb3VGVFBJYklGSU50RHNGNG96elA5aWpnOGFVVGlUYUU1aVRKWUlyZElEZjJQRWFFcC1rV2ZDZ3ZNTkwzSEdkOE5qb1hrLS12T0tFRVFld0I2bWVnZ0FyakQ4eElJUE5rcVVZV0RrYkJlMWlOQ0pMYm5UR0YtUlg1RzRvRE9nUlZ0TEo4dWJoc0RtQTRBemhtMXdZdXhhOEFKWktDZGRuRDNuWlFlVUMxdnhwSHhVUGJJQzB2SW84NW4?oc=5"
     ],
     [
-     "TradingKey",
-     "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXYUYtXzJ5MUQ3Q0dqanZ1VjhZcGk2emdzU2hITXhDZl84NmVweXpqeXJlcE1aNXJveVZBdks1TXctbTcyMU1iUzdSdWpmUmRpb3RSUGNQTDU1S3dXVmFKNQ?oc=5"
+     "FOREX.com",
+     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYkxnWHhRLVM5Rmx1TXptdlJCV1p6X00xQW9JN005WjJVblYweldrdUhuSm5sc0IxRWJFc0JDWk1Wa1RMYmV5Q1lmX3FUdUFxUzhZQ3czYjZQbU9wNEZUN1Zkd29fTUFWQXdMQlFzNkc3WUl4djV0VjVZN3hSYkNjRHJ0dTN3cExxYnpfSWExUTdxOGNwT18tSEx3Z2w5amxpbTBpc09QbU1JT0ZtenVWdEhyVlQ?oc=5"
     ],
     [
-     "FXLeaders",
-     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWWpPZnloMXIzaUF3cUtwdkZITzhuRnY5a1VjaV9uQzN4dl9TNDZPc1RCZktZSDlhMXNfUGNJSGxIbXUyNHNkd1hKVXBDamR6a25YbXQ5MlpockpWNVdwblRaSElPdVFIZmJRX251aEJKWWIwa205bkxfeGtNXzdtWllWTGk1TXkwOTBBRFhXN2JCWjJxVWR1MUhrQThFTU1UY1JrMElOX0QtY29XaDNzUjlLN21kS1puaU9N?oc=5"
+     "FXStreet",
+     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQekpaVjlZbTJwWWQxTWVQLXV4VkZKeDR2dlNfanhvbjVMTUdTWHEyYUxCS2x1Mkt3aWJ2em1Cdm16SWlhNS16c3Z3eG9WRjBtRWRCOGJmcWNSUGhLN09LY2NxbUx6Q1FuaGpoZVdOT3J6ZlA4eUl0LVJWdEVEU0dCZ1dELWhWakFtcm04N0FBS3FWempF?oc=5"
     ]
    ]
   },
   "eur": {
-   "head": "EUR/USD (EURUSD=X) live rate, chart and news - Yahoo Finance UK",
-   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
-   "bias": 0,
-   "tag": "Headlines only",
+   "head": "Hawkish Fed Expectations Keep Euro Under Pressure",
+   "plain": "Growing expectations for a hawkish Federal Reserve and French debt risks are pushing the euro toward yearly lows. This environment favors the US dollar as traders monitor high-impact central bank speeches and retail sales data this week.",
+   "bias": -0.6,
+   "tag": "Leaning Bearish",
    "pts": [
     [
-     "📰",
-     "Yahoo Finance UK",
-     "EUR/USD (EURUSD=X) live rate, chart and news - Yahoo Finance UK"
+     "📉",
+     "Fed Rate Bets",
+     "Hawkish Federal Reserve bets are boosting the dollar and threatening a push below 1.1000."
     ],
     [
-     "📰",
-     "StoneX",
-     "EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle - StoneX"
+     "⚠️",
+     "Euro Area Headwinds",
+     "Concerns surrounding French debt risks and the ECB rate outlook are dampening demand for the euro."
     ],
     [
-     "📰",
-     "TradingView",
-     "EURUSD: Euro Slumps to Long-Term Support at $1.1045, Dollar Holds Near Recent High - TradingView"
+     "📊",
+     "Range at Risk",
+     "A five-week trading range is now placing yearly lows on the line for the pair."
     ]
    ],
-   "watch": "2026-11-10 04:00 USD FOMC Member Waller Speaks (Medium; forecast n/a, previous n/a)",
-   "plan": "Keep size small until you have formed your own view.",
+   "watch": "Fed Chairman Warsh Speaks on November 16 at 12:00",
+   "plan": "Exercise caution around key central bank speeches and monitor price action closely near multi-week support levels.",
    "short": "EUR/USD",
    "name": "EURUSD",
    "src": [
@@ -79,42 +79,42 @@
     ],
     [
      "StoneX",
-     "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVJmemJ0bVlxVHY1cjd4RHplUi01bE5XTC1LUW53MGZRcUQ0SjUwZ0kxR1VxNFRkRHhMTjdfRWc2Mmp6Q3VVc2xEakVtUnRBakY0S2hhd095X0NKZ3doN3I3SnQ1TTlfdVZEVmEzWnBUVlUtM2dNLUtzWEMyNDFVM1VOZ3NwM3BPUU1faWs4aHQ4dzVjMzR2c0Yzb1g1dG9jbmtFYVA5dzRxd0hMNlNYVjNB?oc=5"
+     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTcycHAzcXRlejhWTk1TX3dQUnpicko0bUhEUGFsUHFLQ0NOcERFcW1QNmhaRFpmMlZLRUN5Njhla1BpcGQ3NlFVWVh6bGxrQlFQd2tYeHpPTS1ETGtId0QxaExIaVFGRVh1bmdua0htZXFKb0x0TktILVhnNTNfSkVxcnppUjVZR3p1eVBTVHRQZlplbnRlWlNRbFZFX3JJSEpGdkpqdUI4Ri1DTUVtTEZRV1pIenUzUVBJZTcxYUhDdw?oc=5"
     ],
     [
-     "TradingView",
-     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTEhBYkp3QkxKQkNxRTJDUFNEVU5aTjctUUpFRTVrSTlhX0hVQzFGamRGN1B2NVBMN2FmTG5SS29JZVRvcEZxdDVvM082STdOVVhnNDB4ekx0RXdsb1pwRTBYZWthMlN0RjBzTHN6ZW1PNzdoTVRITk9RRmFVWXp6TDJ0MXpfNi1HVDk3eEJDM3RQYndqZG9kNnBwRkZlU0kxWUZXWDBCUmszV1JJa0prZWhVeFlzWkp4NDRIeG41SmZFTDlGblI3dlphelhNOUU4RFVNb0FqTQ?oc=5"
+     "Yahoo! Finance Canada",
+     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
     ],
     [
-     "Yahoo Finance Singapore",
-     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KWjJPTE90NjkzSllGWnB3UGFlWk5ENy1yRUhfYTNKYjdIY01fQWl2N2duaUhZbmxsZjlqMU1zbkgtZEpSa1FoRjloWFAtLUxLdkM1bnl6WldLdw?oc=5"
+     "Equiti Global",
+     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTngzSDlndHVLb0xySWV5dkE4YTJZU1UyYnd2RlRiZXJuVWVfbHgyYnpaRDhHdlV4RlFPTjNMSm5CdjJmbXRwZzFRZHNqZm9QTG5ocGltd1JlaXlmN2haOEsxU1l5cFRHdkFMVXIxT1c3RHR3Mmk3V0NlalN4bEVNVnZfX1k2YmVJMDV5dU9LYzlQWElWSEF2ZTNR?oc=5"
     ]
    ]
   },
   "gbp": {
-   "head": "GBP/USD (GBPUSD=X) live rate, chart and news - Yahoo Finance UK",
-   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
-   "bias": 0,
-   "tag": "Headlines only",
+   "head": "Dollar Strength Weighs on the British Pound",
+   "plain": "The British Pound is facing weekly losses as firm US producer inflation keeps Federal Reserve hawks in control and pushes the US Dollar toward yearly highs. This sustained dollar rally keeps the pressure firmly on GBP/USD ahead of key central bank speeches and economic releases this week.",
+   "bias": -0.6,
+   "tag": "Leaning Bearish",
    "pts": [
     [
-     "📰",
-     "Yahoo Finance UK",
-     "GBP/USD (GBPUSD=X) live rate, chart and news - Yahoo Finance UK"
+     "💵",
+     "Dollar Tests Highs",
+     "The US Dollar continues its broad rally toward yearly highs following hot US inflation data."
     ],
     [
-     "📰",
-     "FXStreet",
-     "Pound Sterling Price News and Forecast: GBP/USD likely revisit four-month low near 1.3140 - FXStreet"
+     "📉",
+     "Sterling Struggles",
+     "The British Pound faces weekly losses as Fed policy expectations boost demand for the greenback."
     ],
     [
-     "📰",
-     "StoneX",
-     "GBP/USD, Oil Forecast: Two trades to watch 101126 - StoneX"
+     "🎙️",
+     "Heavy Event Risk",
+     "Upcoming speeches from Fed Chairman Warsh and UK earnings data could inject fresh volatility into the pair."
     ]
    ],
-   "watch": "2026-11-09 12:25 GBP BOE Gov Bailey Speaks (Medium; forecast n/a, previous n/a)",
-   "plan": "Keep size small until you have formed your own view.",
+   "watch": "Fed Chairman Warsh speaking today, followed by UK Average Earnings Index data tomorrow.",
+   "plan": "Approach GBP/USD with caution given the strong US Dollar trend, and manage risk carefully ahead of high-impact central bank events.",
    "short": "GBP/USD",
    "name": "GBPUSD",
    "src": [
@@ -123,88 +123,88 @@
      "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NbzZVOXY1Z0JsbVlxU2paRTdhaDZSTFJ6RzRCLUF1ek1EcW9JeEFXUWdHem15UW0ydzAzYTNDSy1xWHNWS1d3c3lGOHdjQXZTQlN2Y1l6NDNEUQ?oc=5"
     ],
     [
-     "FXStreet",
-     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTHB5aGtiWHZvaFZnbUJrWHNseFg3cTFPMWt0UXlrME8yYjYwbGNRY0xaQlk0VFlRZVFwNV80ZmtsaFNWU1RDdExfc0loNDRBT2VQQ3o1Q2w2aVlhV19NOHZGZDVpVnd4aU1VRGIwX3VPeDZfOFVXaG1lbXFySktCc1lOTGI1Q3BQSXdvZC1QdEluamlGUFVHdy1zZVI5UVQ5ZUt1b2RWcnBFeWM3SURMeDVLM0M0UlVyMXR1eG1DMjI1TmxrY3NidmVB?oc=5"
-    ],
-    [
-     "StoneX",
-     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSG5iZTA0Zkg2aW8xaFFtQjdvQzNPU2RFbWhwZEYtelYtakZYSUZyZEhmdGROT3ZIc1cwTVVhQ19oWTUtSlBGSXUtb1c0eF9yUk1PeWlfaDkzUzVtMzJ1N0xnRDZPeWtYU3VMU2NrY0dfNlJaVEdPSnZfOFV5ZUxHUG13THkzcjRvN2JtdThJRU1JcTNxUGhVak42NA?oc=5"
-    ],
-    [
      "LiteFinance",
      "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSmVsVUIwNDY1V0xhczZ5MTZzSnZPTS1FMl9qYjJCVTJ6bFB2eTdsZmQ5akFDa0VsR2FrclBFd3pMeEhTZmFzRUtCMHNZZzd5YWVOTE1ucjMwRTJ3emdybDJibGM1amZaWFlEZTZKRWFBS0hoS3N3NVpzM1JaaGpLRzYxbnpZUUt3OVZRYWNMZGpmejFIdE9Rd001WVJaMXUzRDlibmxJODBMeTd2QnlTQ1VZa0VpSmdzeGJwOW9Uem83ck8tOXRBeTkta0FxS1ZET1E?oc=5"
+    ],
+    [
+     "FXStreet",
+     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3hoZTk1T1Y1aEFSLVZoRExNbXNhaTdENF9IMjJaTC1Vd1poRG84Y3hTUkpJd3NLRjdCSEdDQVpjMndRdmdaN2wzODl4czZ2aVZzNGg2MktzTHIwcUR4Wm8xWEs4WDdGSl96V3ZXQndxSFV5Zk5URzFpX1IzV1hvNUp5eUtIQ0oxTUtidlhLZ0dSNUh5bDdPc2w4MnJuQjZfdjR4NXBBWnpJZmxfMnlPa2p3?oc=5"
+    ],
+    [
+     "FXEmpire",
+     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcmgtM1JRdFdSVVRGQS01ODRLeVdrTV9WZWxQWl90ak1GbFlZbzZpYVRQZ1dHMWRFU3QydG9MUTJjSzRlZXR2OHdjc1ZFam1zd2dpRW45OXJUN2Y5b2RSZFRHX1dLaFkwekJabVpIWjA4UnVManpmSVIyU0draWdDdVUwWjZJdWZvX09zVlhxZ0s4R1M1Y0dNWjc4bmNlTGNTREVscEJFWERFMlh4RVotclA2R0dFRDVqbmVVTjF1UXY4LW1iRHZ4RnhJemozb3ZvNkNhUUV2a3NvR08tVFVr?oc=5"
     ]
    ]
   },
   "jpy": {
-   "head": "Chart of the day: USD/JPY nears 160.00 as technical warning signs raise Japan intervention risks - investingLive",
-   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
-   "bias": 0,
-   "tag": "Headlines only",
+   "head": "USD/JPY Stalls Near 160 as Intervention Fears Rise",
+   "plain": "USD/JPY hit 10-week highs near 160.00 following stronger-than-expected U.S. core PPI data, but the rally quickly stalled. This resistance matters because mounting fears of Japanese intervention have triggered sharp pullbacks and cautious trading at these levels.",
+   "bias": 0.1,
+   "tag": "Intervention Warning Cautious",
    "pts": [
     [
-     "📰",
-     "investingLive",
-     "Chart of the day: USD/JPY nears 160.00 as technical warning signs raise Japan intervention risks - investingLive"
+     "⚠️",
+     "Intervention Risks at 160",
+     "The push toward 160.00 has stalled as technical warning signs elevate the risk of Japanese authorities stepping in."
     ],
     [
-     "📰",
-     "StoneX",
-     "Japanese Yen Short-term Outlook: USD/JPY Breakout Hits 10-Week Highs—160 in Focus - StoneX"
+     "📊",
+     "Inflation Support",
+     "Hotter U.S. October core PPI figures kept the dollar supported around 159.86 despite overhead resistance."
     ],
     [
-     "📰",
-     "Moomoo",
-     "[Flash] USD/JPY at 159.86 yen; dollar trades sideways as U.S. October core PPI exceeds expectations - Moomoo"
+     "📉",
+     "Sharp Resistance Pullback",
+     "Reflecting trader nervousness near seven-week highs, price quickly slipped from 159.90 to 159.55."
     ]
    ],
-   "watch": "2026-11-10 04:00 USD FOMC Member Waller Speaks (Medium; forecast n/a, previous n/a)",
-   "plan": "Keep size small until you have formed your own view.",
+   "watch": "Fed Chairman Warsh speaks on November 16 at 12:00.",
+   "plan": "Stay alert near the critical 160 level and manage risk tightly against potential intervention headlines.",
    "short": "USD/JPY",
    "name": "USDJPY",
    "src": [
     [
-     "investingLive",
-     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcXJpUzhDU0daYzJJLXZpeENzMHRQdUtkeDB2ZmxxRFJoQ0xsUlBGZ1NUeUFhLXdUaGFHY1NMN0pYTllpZ3NIbVduRjdrS3lGbGVReUN4d0R6NUJaN1F0cDRXOTBabVVrdnBGN2pScXRVbS1rV1ZWUlcxUVZzdXIyZEt0ZDJBcGdFWHV0LVZJbU9iSE5KSU9tM1FmTVBmTDQ3TmZNMkF2S3F2bm9aUlBIOHd3dkpoQ2NDTWdwdTZGMHJnX3Zmd2doMHdNcXRYN3F2SWNtR0NzUjk?oc=5"
-    ],
-    [
      "StoneX",
      "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMjhWOC14RndaNWYwRlA2SkhLNldUNk9Hc0RlQklGVXdvZVZUS2ZPY3MyTDRMTi04Ukp2OU5DbjhKSlNkOWNlR2Y4MEFOaWJYbjlveEhneTJVZDkxUnpGZk5MeEsxVGFNazlxbXFQUWgxOW90TURjNHMxOGNNVWhMdDNuNEZSRUMwRGh6Sm9KODZLVXFDY01YdEJkWEdTaXk4Zllqcjhfa2cxVC1iTTA0bVc3YkVJYXdxekNuMU9vMWk5cFdfNGpV?oc=5"
+    ],
+    [
+     "investingLive",
+     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcXJpUzhDU0daYzJJLXZpeENzMHRQdUtkeDB2ZmxxRFJoQ0xsUlBGZ1NUeUFhLXdUaGFHY1NMN0pYTllpZ3NIbVduRjdrS3lGbGVReUN4d0R6NUJaN1F0cDRXOTBabVVrdnBGN2pScXRVbS1rV1ZWUlcxUVZzdXIyZEt0ZDJBcGdFWHV0LVZJbU9iSE5KSU9tM1FmTVBmTDQ3TmZNMkF2S3F2bm9aUlBIOHd3dkpoQ2NDTWdwdTZGMHJnX3Zmd2doMHdNcXRYN3F2SWNtR0NzUjk?oc=5"
     ],
     [
      "Moomoo",
      "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdm95N2RmMC1fTG9kMExTZDRET0p4NDhLcTk5c2I2alJQZEFpWVhIYzJyelU5UW85c3BwSm9qel91a1V5Vm1GZWR2VVNPOHF5eGtCN09ZSkNjVXhpbzA4d29VZkVqTkU4TUJyTnJleEdhSWlBNUhIaHNjYTRNQW9MdXR2R2Q2SEhqMllUdWNaLVROSTZuNWdVWXln?oc=5"
     ],
     [
-     "FXStreet",
-     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkVDMmRFalRvU0hfOFFsbGpWUnJQTzZhbzdrOWV6Z0dFbjhIRm5iS0ZvbFptX0hLWFpEVWo0eTl5OE5EbWdQRWNoR2lCSDR0dHY5VnFMTFRvZ0dsZjNuclhQaF9HZlo0aDM3eFFzaVpDT1JXN0c4X3hpUTRjMXFwSUJXRVg1X1oxZU02MU9wUEhUQ05CNlpFdklUR3JvUDlhb2FOV3I5R2ZfbUZQd3c?oc=5"
+     "TradingView",
+     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdHp3OEp1b2N4c1Fpby1vVVRVOGQ4WWIwTnM1Y1RtRURNb3l6MmxlbFo1WmdTQTd6N3VpejZVN3l6Y2FsM2pXRlo1V2dIUFdBR1FTcUhiLTdrNFNwR3dNNldNaXEtRnVfVlBnVGUyLTBBcnpnSU1XTlpEVUlfTHhMUTA2eXZ6bUhwNkdaRlhuRzhHcmt6VUNISVpGX1JaRjBiN2FyLUl2NA?oc=5"
     ]
    ]
   },
   "oil": {
-   "head": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
-   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
-   "bias": 0,
-   "tag": "Headlines only",
+   "head": "Oil Swings Between Surplus Fears and Middle East Tensions",
+   "plain": "Crude prices are caught between concerns over a growing supply surplus and headline risks from ongoing Middle East conflict. This dynamic creates volatile, mixed trading for USOIL as markets balance U.S. inventory builds against potential ceasefire developments.",
+   "bias": -0.1,
+   "tag": "Mixed and Cautious",
    "pts": [
     [
-     "📰",
-     "EnergyNow.com",
-     "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com"
+     "⚖️",
+     "Surplus Pressures",
+     "Signs of an expanding supply surplus and U.S. inventory builds are keeping downward pressure on weekly price action."
     ],
     [
-     "📰",
-     "Reuters",
-     "Oil prices set for second straight weekly drop on signs of growing supply surplus - Reuters"
+     "🌍",
+     "Geopolitical Swings",
+     "Headlines regarding the Iran war and potential ceasefire talks continue to trigger sharp, reactive moves in crude markets."
     ],
     [
-     "📰",
-     "EnergyNow",
-     "Oil Prices Fall as Market Awaits Possible US-Iran Ceasefire Deal - EnergyNow"
+     "📊",
+     "Higher Long-Term Outlook",
+     "Goldman Sachs lifted its 2026 WTI average forecast to $79 a barrel, pointing to potential support further down the road."
     ]
    ],
-   "watch": "2026-11-10 04:00 USD FOMC Member Waller Speaks (Medium; forecast n/a, previous n/a)",
-   "plan": "Keep size small until you have formed your own view.",
+   "watch": "Fed Chairman Warsh speech on November 16 at 12:00 USD",
+   "plan": "Trade defensively and prepare for sudden headline-driven volatility as ceasefire headlines and supply data clash.",
    "short": "Oil",
    "name": "USOIL",
    "src": [
@@ -221,35 +221,35 @@
      "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSWlSQ0JySWhtckl3S01IdjNPcndoTTVOUWVSRmRXLWw2b1U3R3hZeTdwcFM4S1pxNnRVa2dPMXV5Vk9SZWNXaEsyWVYtd2hTZkNBXy1SbjRiaFRFT2cxekVUbTZFXzY1LXJEMXA2WkNVdXhMVnBzbGdNSllPdjlmcS1DMzZTQmo1bDl3dGJIWFhDUzhtUDN1bEV3?oc=5"
     ],
     [
-     "Yahoo Finance",
-     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHpKb0tmeWdhVUstcG5Sb2RPWGtZdzNDX2U3VHV0bU83Z3pmY1ZpVjI5ZjMwMkN5X3p4RExaUHRicFg1SkNDQzBZRERnMXZidmhqOW5ZRlVDa0tyQkVpNm55aklib0E5aVZZNFVoTVF1bXBJenVIOU9LWGlNekJyc2ZIbkptR1FneW9reGRB?oc=5"
+     "FXEmpire",
+     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEdHQ1htcjYtbjRVRDFYUFliMHEzYkpKVmdPQjU5LUtoYkJmcENYV1dqV19mam1WdENzMmR5SnZHN3lwN3VCU3NjQXVudlRhbVNrRTBBZFhFXzM2QXNyNEloWXo1MkxjUHNhRGtFTk9mbnFQdERmMXpPLUFTalBvREh0aTIyRU5yQnZvQnRQOG9uaTZXUXJlb0NJTUdmcF9Mb0M0VkVJVkgtdFJaTUZNbDdnZERCRzVyWVE?oc=5"
     ]
    ]
   },
   "nifty": {
-   "head": "Sensex, Nifty plunge over 2% as Trump’s speech gives no timeline for conflict end - DD News",
-   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
-   "bias": 0,
-   "tag": "Headlines only",
+   "head": "NIFTY Faces Tug-of-War Between Weekly Gains and Global Tensions",
+   "plain": "NIFTY is balancing solid multi-week gains and foreign investor buying against sharp selling pressure driven by geopolitical uncertainty. These mixed cues mean traders are seeing heightened volatility between broader weekly momentum and sudden headline-driven pullbacks.",
+   "bias": 0.0,
+   "tag": "Volatile and mixed",
    "pts": [
     [
-     "📰",
-     "DD News",
-     "Sensex, Nifty plunge over 2% as Trump’s speech gives no timeline for conflict end - DD News"
+     "🌍",
+     "Geopolitical Pressure",
+     "The index experienced sharp drops as speeches offered no clear timeline for resolving international conflicts, keeping markets under pressure."
     ],
     [
-     "📰",
-     "HDFC Sky",
-     "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky"
+     "📊",
+     "Underlying Weekly Strength",
+     "Despite sudden pullbacks, NIFTY managed to extend its weekly winning streak for a third week alongside continued FII buying."
     ],
     [
-     "📰",
-     "Rediff",
-     "Stock Markets Today: Sensex, Nifty fall as inflation concerns weigh on markets - Rediff"
+     "🔄",
+     "Sector Rotation",
+     "PSU banks and smallcaps have led gains as an AI retreat helped fuel a rotational comeback into Indian equities."
     ]
    ],
-   "watch": "Check the economic calendar for today.",
-   "plan": "Keep size small until you have formed your own view.",
+   "watch": "Geopolitical conflict developments and foreign institutional buying trends",
+   "plan": "Stay flexible and manage risk carefully while the market navigates conflicting global headlines and domestic momentum.",
    "short": "Nifty",
    "name": "NIFTY",
    "src": [
@@ -258,16 +258,16 @@
      "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMV9GcWhEamdBUGZrbTFIVHpucmNaUWpOaVZFQktQX2lyRFAtY0hJcGJZSUREaUJQdXBvTk5lNVBidC0tV3JoUGtqSXRvbDUtNGZuYjBLS2hHc1UzOGY1QTdmb0VEN0E2d29yRFE4MlRuc3dUMXdjN0dPVG5BSkNFWVROYnNoN0FjX2RIc0EwSU1TQ1dyV1J4TENHZV9YQ2w1azduT1MwTQ?oc=5"
     ],
     [
-     "HDFC Sky",
-     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdFVmU2E4X1lka1dTRGNSZzVfUEl2ZGl4UnNJdTEtVHZxelI2SXFwalhqVWtaMERsNm9Fc0tiS3psZUpNY25VN0hwcXlmb3lLNlp6TURNY0xyYUQ4bDN5cVdSdFFYRUtEN2lKY205MnRxZ3VCZXhVaTVOUWhKbDBwVXVVMHE2WjBEelFLSEtXczYyTTRyTTNWNjlHMURxT2ExZWlMYXl5ZnUwUWFFVUttTlVBR05nTGhaWGxhNTZ3eGVBTEE?oc=5"
+     "Upstox",
+     "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMWlBS0s0Y09Oa1J6eHpzYXcyZjgyQllHcnFVeFJCNTgtOWtMZ2RPdzhNNWxVSG5NYThGWDQ1cTZGQ0dBQXJPM1BPUG5pYVZPRHhmaDhlVmxHZDM2X1ZOaUd4QWtGZ2p4TFdtLXA3SzFrM1VtSHNqRlNTdkhlWjNXNy02eWs2eTFBc3Q3eFpXOFN3cmlRbnd0aUtvaHc4bmloWWc1eG9udDBNNnRCQTJiMXdkNk5LVDBpc01kTmJxNzlKREt1MFBMaElOMkx5UjUwTWVSMzJPMmk2Nlp3M1NkbTFkWXZGTUxmZk1ERUhTU19zSDg1MFM5QzQ2OGpGSVNpWENSOXhSdWFFZw?oc=5"
     ],
     [
-     "Rediff",
-     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZk5GMVZZVVZYUU9PenIwbHFmTzE5MzlDWnN0X0J6bTY0Sng1SjNHYjIxRUFFZlA1OWpodXpYcW11Qk01MWRra29mblRORndpRGJBdEhOTkV6MjFGQUVfTGN5Q0Q0RlNKdlZPOWlYY0NnSF83Z0kyVkdiZ3kzSTNQalFYMzJMT2tyeVI1S3FhVU5hMzZrRlBfdmp3dllQSjJzMVlDYTZwZnJSQlFjb2pSTWdqZWd1QkFxaVpYdlprQnczU2I3eC1EcWF6dVpGYmJDdDdkY2QzajE2Snk3MHVfWU9n0gHkAUFVX3lxTE40YnM5akZ1cmlyeGRSdnlONURUdC1yTEptQ3Q2YzJmV2ZOaVd5blg2UnpYYWZPbTEwTTZRSG5ZX0E0VmdxSDgtTTlwMGpUOGE3US1WTW1lbWtHeUtuajJ1VHFzUm14VHNwQy1JbXFWWWplMllpZTlyVGgzOUloLXp2UW1DMTRPbkhEVkdjWHhzdGhWcHA1aHhtY0c4QS1vV1RpcUlwUFdnYjNxSFRjQVRLdkVWTFBIWk9mUVVqOEoyTC1penhYTEVNNnBydHp0QXJwNEtpa1RDYXB6ZWFCUF9LWnF0Qg?oc=5"
+     "Liquide Blog",
+     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOczFWT3cyYUJaSWIxTjRnOVFOb0xTc21YTU1nd0p0a2ZlcTZKc3RfYWtWakZIcVhPeDRPOGI5SXNwTGpLMHpSVXdPZDhkUHFGWXl2RkZaVW5UZmJTUG41Y2pRRnpZYjU1N2tnOE5sUE5ZektVTXd5RDBiQnkwckU5Q0ZsM2JoeVVYM0xzQTh2NExlY1JEMmg4cDZR?oc=5"
     ],
     [
-     "Free Press Kashmir",
-     "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjdoNHROM1dHdEtOX3I0b0JfdGZUNklqNEJZRzk3MW5tcVhaZURHV2gzYTlQNi1YTkJfSFkyRnZFeDQxWWJxZEp2RkdWYkVnT1JVQU9VOTRIandjZGtUUFpHMUZpc0RjYTBkZHVLUnMxdDNmX1lCN1pqZUFtT0gyeWk3QnYyMWV3S3RaVnFlUmhKcDRfTFBGQmp2Zl9zSXZLMU5nazEzZ1N1RUJkNVdNRS1R0gG3AUFVX3lxTE1BaE1STGJIZzNPcUZHZUdzdHFqUXo2WjVIQzlFMS1SOGtKZXZaelNkN1RzY0xjTm5xQnh2cXFQUHphUGhNYlFsZGhOeDlxVDVhUE16R1JTemhRRkxLUEFDbFBFTFFLSDJDQkFhTGJCa1FhamlzZHI0dkloVmFJODUxZnVJYTgzX1J1ZS02VG5ERVFDalZsZnFsa2tJeVhiSlliYk9pNlFQazJaM2UxWXBHWTNZV0tFYw?oc=5"
+     "Business Standard",
+     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN2hpYVlVZnN6Q0RBTUMtVHFqbTd2Y2RlTHliV0RLTENfeENwb19sU3JLYlE2eUprbWFtUE5tLVJfQklWNHI0UzNsRGE2VjJWR0U0cmF0dGZ0eDhjS0VvR19LbG9CWWV4VDNCR3N5WGtKNlQtNUcybThDRDZQb2dqdWQzYWFrZ0JBLTM5alN6WDFNSFFLdmh1SDF5QTRGRXVMNzdXY0NVUUxkcDlXSllfdlllZDVqUENQZTZ0eUUxc1NrdW1yc3lHWlJWbTZ2dkRZ0gHWAUFVX3lxTE5oX3dlbW5paDJsTHdpR01CRzVXUl9CcEU5NVZPd1A5QU9JUGdaSW1rcVdVZkJjSzlnczU0UlZTXzV4Y1M0cERCWGE0dDZTdm1WampKQ19RLUM3c0VvOEFDTG5BZ2lKYnV4OVMxOWVQQkZIV0l4elZQR01NcjlQQ0RqeUExZmo3X1JUc21vUTBUT1h2WlBUcUZiVDZJVjhZSkZudVFIbzVfN21zNWtaTGlFUmhTZFBLQUdlTjRPdXotay1LRFdnREFHTHJCaEVVSEtLOFVxd3c?oc=5"
     ]
    ]
   }
