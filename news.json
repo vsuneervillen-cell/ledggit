@@ -1,183 +1,48 @@
 {
- "updated": "16 Nov 2026 21:44 UTC",
+ "updated": "17 Nov 2026 06:31 UTC",
  "items": {
-  "gold": {
-   "head": "Gold Price Forecast: XAU/USD consolidates before the next leg down - FXStreet",
-   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
-   "bias": 0,
-   "tag": "Headlines only",
-   "pts": [
-    [
-     "📰",
-     "FXStreet",
-     "Gold Price Forecast: XAU/USD consolidates before the next leg down - FXStreet"
-    ],
-    [
-     "📰",
-     "www.tmgm.com",
-     "Gold Price Forecast: XAU/USD picks up above $3,850 with the bearish bias intact - www.tmgm.com"
-    ],
-    [
-     "📰",
-     "Mitrade",
-     "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - November 16, 2026 - Mitrade"
-    ]
-   ],
-   "watch": "2026-11-16 12:00 USD Fed Chairman Warsh Speaks (High; forecast n/a, previous n/a)",
-   "plan": "Keep size small until you have formed your own view.",
-   "short": "Gold",
-   "name": "XAUUSD",
-   "src": [
-    [
-     "FXStreet",
-     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGNoQ2VlUkl6MW84RkNQRjJtWU9uN0c2cnBsMHFybTJHLTZHejNRYVNHbXE5NlI4UnVHZVBPZEt0eUpXcXRSWVBZdmhERVhCSmlHbnd3ZG96VXdpVHlJeVhJNHAxeVlIM0JzWjBhVHNvNUF0VlhkSjZ4QUlkeUZ5YlNsM3J0S3pmS3J4RVBUeEZvVi1SUlZ3UThwbkRBQlJIdmR2c0xWY1lRcjNKSHVCT3h3?oc=5"
-    ],
-    [
-     "www.tmgm.com",
-     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONHB2enFwT1JLcnJFekpVNXVTOWxnMEZUYUlqbGZycDU1b3A2eFE2Y2lraHVUMnVxc29fWTRXTGdPTXdiZDh2RWRQTG5HaGhxbEFrbHJiSXpKbGJxVlJNdjFtSEUwQklNUGlub1YwQzA1OWpwcEdDSnR4bUhHMlhIaHR0QUJPeDhvMUNNeXd3UHVzcGxkNXlvd3JVYTJfeEVCbDQ0ZnpaeE5QN0hZSm95SmxLeWxGR3MzNFBaRnRjZmhkMEFwckhuTFdqTUF4TkVTZVE4eDlMNVRFRTQ?oc=5"
-    ],
-    [
-     "Mitrade",
-     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY2VPT2p5LS1uc0FFdk9hM0d2Y2x0WWZWOXRQcWRhYndJRHBUQS1sSXlNZkl3NU5ZZzBZaU1DbDVwbmpPM09TaTJKNkFGTGlEN0hMVXQ2NzNHaXlieDMzVzAxQUlrOU16alRiZU03WGQ4bXlhYWZwYmpuTlo0cmdQcXI5QU9CaGtSODR1N08wZU1IUzhQN1hGSjlRZw?oc=5"
-    ],
-    [
-     "FXEmpire",
-     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX1N3UzRsOGpOUkZDOHB3U2pYZ3F2emNKSHVHd0x5aFoyVmc2TS1VVGxLOGRJLUVOZUV0SVVKVnVEaXZLMTEzdldOV3o4d0ZuMEpRYmJURUZpUFNFNUZKWDJydktBNlVueDRwUzJYbzR0Z041UlBWNmNHVkF6T0UzUUFuSHRLcDk0SldtcnBtNlI1cUxzaUF6WUhEY3dYYWVsRHk4TzZtdUhCZVZyZHFzZFN4MjBFaUtjR3hEMW9Jc1loN015MWhmUEtpakVVeG9LMXFIZmdwVGZlOHFxaUE?oc=5"
-    ]
-   ]
-  },
-  "eur": {
-   "head": "Euro Technical Forecast: EUR/USD Five-Week Range Puts Yearly Lows on the Line - StoneX",
-   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
-   "bias": 0,
-   "tag": "Headlines only",
-   "pts": [
-    [
-     "📰",
-     "StoneX",
-     "Euro Technical Forecast: EUR/USD Five-Week Range Puts Yearly Lows on the Line - StoneX"
-    ],
-    [
-     "📰",
-     "Yahoo! Finance Canada",
-     "EUR/USD (EURUSD=X) Live Rate, Chart & News - Yahoo Finance - Yahoo! Finance Canada"
-    ],
-    [
-     "📰",
-     "FOREX.com",
-     "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - FOREX.com"
-    ]
-   ],
-   "watch": "2026-11-16 12:00 USD Fed Chairman Warsh Speaks (High; forecast n/a, previous n/a)",
-   "plan": "Keep size small until you have formed your own view.",
-   "short": "EUR/USD",
-   "name": "EURUSD",
-   "src": [
-    [
-     "StoneX",
-     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTcycHAzcXRlejhWTk1TX3dQUnpicko0bUhEUGFsUHFLQ0NOcERFcW1QNmhaRFpmMlZLRUN5Njhla1BpcGQ3NlFVWVh6bGxrQlFQd2tYeHpPTS1ETGtId0QxaExIaVFGRVh1bmdua0htZXFKb0x0TktILVhnNTNfSkVxcnppUjVZR3p1eVBTVHRQZlplbnRlWlNRbFZFX3JJSEpGdkpqdUI4Ri1DTUVtTEZRV1pIenUzUVBJZTcxYUhDdw?oc=5"
-    ],
-    [
-     "Yahoo! Finance Canada",
-     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUFCZmxoakVmQW1kNlNLdzU5SzNSb01UdHBTdVJKMXlVVkl4cnV3eXUwcXpFWHF3STc0OXFnWXRWY2p1ZkJNVlpWSG5rRWx1aTBrNHhSbHduZw?oc=5"
-    ],
-    [
-     "FOREX.com",
-     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTnNZZThoQnl1NFVIYXB2NnRqQ3pqWFRzbGlfN21FU2s3cWppNnp2VERUUm5jMmVmdDdteHpTVnZWa2NaZkR1NGZJbFltelRPUms3eFk0b3FJUV90UERBS0NtQjZkUEltN1kyR1EtLVlZWmJKRHAzVEN2dHVFU0t0UUNlMURDbWdMWWttbkc4LVNfeTJjNnlhRkUyZWVyN1YzN0JrV0hIek5BVng5RG9WRHUtMDZHTkt6bmk1Y05keE5sUjNwR0NSczNNVVdKZGd4SXFVUGlId3JMQQ?oc=5"
-    ],
-    [
-     "Investing.com",
-     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajV6NWRBS0lXb2hXQUVaZXZRMGZrLWFYMWt1WHFJeS15NGlnZm54LTFwU1RzUnh6eDFmRG9leUdtSjBxcGExMk9KU1JpZE5KMHdZWlhWaHpHTm5iYl9VbTB3UjZ2U2ItVVJWLUhwRDR2YUFIMk04OXg1cDM4VGZHeDYwTXFGdWFYY1lFeU5fX2NnSkZBYWlZRmdjRXJRQ09ueGZIdHU0ZEtFZm9tRjZ6d0xoSWluRVJyN010NEJuZHU?oc=5"
-    ]
-   ]
-  },
   "jpy": {
-   "head": "USD/JPY, AUD/JPY: Central Bank Divergence Creates Two-Way Risk - StoneX",
-   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
-   "bias": 0,
-   "tag": "Headlines only",
+   "head": "USD/JPY tests 160 resistance amid intervention warnings",
+   "plain": "USD/JPY has pushed to 10-week highs near the critical 160 level as hawkish Federal Reserve expectations support the greenback. However, growing fears of official currency intervention and rising bets on a Bank of Japan rate hike are limiting further upside.",
+   "bias": 0.1,
+   "tag": "Two-way risk",
    "pts": [
     [
-     "📰",
-     "StoneX",
-     "USD/JPY, AUD/JPY: Central Bank Divergence Creates Two-Way Risk - StoneX"
+     "⚠️",
+     "Intervention Risks",
+     "Upside appears capped near the 160 level as traders brace for possible official intervention to support the yen."
     ],
     [
-     "📰",
-     "FOREX.com",
-     "DXY, GBP/USD, AUD/USD, USD/CAD, USD/JPY, Gold Weekly Technical Outlook - FOREX.com"
+     "🏦",
+     "BOJ Rate Bets",
+     "Speculation of a Bank of Japan rate hike is building while the pair tests major resistance."
     ],
     [
-     "📰",
-     "StoneX",
-     "Japanese Yen Short-term Outlook: USD/JPY Breakout Hits 10-Week Highs—160 in Focus - StoneX"
+     "🦅",
+     "Fed Hawk Alert",
+     "Hawkish Fed sentiment is keeping dollar buyers active, though diverging central bank paths present risks in both directions."
     ]
    ],
-   "watch": "2026-11-16 12:00 USD Fed Chairman Warsh Speaks (High; forecast n/a, previous n/a)",
-   "plan": "Keep size small until you have formed your own view.",
+   "watch": "Fed Chairman Warsh's upcoming speech, followed by US Retail Sales data.",
+   "plan": "Treat the 160 area with extreme caution, watching for sudden intervention headlines while monitoring upcoming US data.",
    "short": "USD/JPY",
    "name": "USDJPY",
    "src": [
     [
      "StoneX",
-     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbEEzRlNCakk2VmV5SXo1WFZ0Y2JULWFnTkdnc01sVkRIdGYzcHVCTWdDX1VBWDRiTEJRWjM4VnJGbEZOZnlsNEhYazRMSTVHOEx2Vnl4Tk1WY3ctcWUyQ2VjSnRldUw5bmFxMXFDRFNSeWhFVDE0c1BwdEpHTEhwMmpOSzJGME4zb0M3c3BIdHUyU2p6OEF5Tk5ZSDBTbVVLSkMwQjF1dUtLMGZOeExqNnl0dTI3dVF0VHJV?oc=5"
-    ],
-    [
-     "FOREX.com",
-     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlVSTTlmWEJRQ1JJRGJkMzRYV05nOXRLNVBLWFpGY3FDUjA0R24zSkFEQUlVU3FMRHJPaVduVEoxV2lSeDZPMHpIYXN6a3JfbG1sQl9SXzlzN1BBTjZRWjdTNkRiV1V0Y2d5SENkNGdFZHhLN0J5aURQdlRJMWpwd2dPZENUX0p2R044c3R6MDZjNFdwSVJBc2Rzb09fS0hWSzlHQ280ckdYM1VvaG93Y3dacV9ZaUZxendzY9IByAFBVV95cUxOM0J2RF9VLUs4SllYOEFXYjVNajdZMHBhLUVzN01DMG1KcTVIWnVoVzFESVF5Q3pMTTRpRmFPZmRzQnZZbFFSUWFFbFNyN19sdF83aEc4d3BpRi1HaUJSYnN0R05mUzVqRWlGTDV5eHdVRHBlV2o1Q2lsejFtZmFJWkZSZ0hoM09SUVhoWkNoOE1xSFRZZS1aSXFiUURYSjM2TUx0R1p1S3pMNFNUX0JBQ09XZTJFQ2pxM214WjJLLU5DRFNRdE5Zbw?oc=5"
-    ],
-    [
-     "Investing.com",
-     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMjNOVWxUeEplQXlwWGxkQVFGRmE5dW9YSWZETWJTMmU4TXdqMU5JV3NIbHlWTjVMN1dhcnV1VUMtZkhGUDdXQjkwOGdBaGFjRjYyZFdXb2lSa3hhT21uMUQzdnBERzdXSFpNcFVaSklNTVc1N3NkaU10cVptMDVPVGp5RUVhQ1NtNTU0?oc=5"
+     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEZMVEp4NHR6alg1TnZ0LUMxaGgxUnlvVkhBY2dSb3Rlc0hoYzIzbUJidzVsbzlQeUxSOG9ZZ2NJR05qeWVnWElkZGZON0xmOTluaFpSeVZFSWd4UXk0TmF5VHhSek9fNkpRbWJBTnFTY0pjNHlVWXpwQ1NlU05XOTIyaVluUmZ6aEMtWnZpbnpFemFsSDBRTV8tMUdHUWZpZzVIRTFoU1ZWMlE?oc=5"
     ],
     [
      "Saxo",
      "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWW9pXzByaXVfaHFNUU50Z3hxQmIyd0g4SDZ0QnZmQUhhX2ZoaWlJVWRiVnl1QmxwVG9xcEtJZDBfdWVtYUg2a005WEI3WTBJVWlXSHNCRVNwME5KbjVHSUtzeVVabG56alVhSzVCNVp4SzlCSl9TSy1hNXJ5VUZsMw?oc=5"
-    ]
-   ]
-  },
-  "nifty": {
-   "head": "Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView",
-   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
-   "bias": 0,
-   "tag": "Headlines only",
-   "pts": [
-    [
-     "📰",
-     "TradingView",
-     "Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView"
     ],
     [
-     "📰",
-     "Business Standard",
-     "Sensex, Nifty gain over 0.5% as banks, FMCG shine; broader market slips - Business Standard"
+     "FOREX.com",
+     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFh1T042dGR5VEN4c2tmTW5ubktnN2k3U2tiLXRXbkZyYVJnT1VDTnhqenBqLTJjc0s5TXU2Q1J1cVJJbmk2ZEk1X2ZsODRJM2NXSTRRTC0tdlA3VVluWnlhY01QU0VSUTV6Sm1SZXdxbVZkSElUd3o3Z3BZWXhfWU9lMXMxNmFVa0xNaEwyR0F2Y09OU3h2WWNEMNIBpwFBVV95cUxOR2F3MmJYTlM1MVBQMm4zQ3IybHcxdTk3MlJ1Q25tM2FFc3FFT1hRWVZPeE9IS2tERGFKdFN2c3VnTU9NSnFrSDdKWVFMbS1KbFZrblZsREpzSlpkUzNZcU5xaFN4UnFuOVhmMUlWMmFwdGZJbUpvVmREQ1RCdTVEcGpjX25BUEhoUlNJSnB4THN2TENhQWlpM1FFWFFJS1dYQy1BMXRFOA?oc=5"
     ],
     [
-     "📰",
-     "India Today",
-     "Sensex jumps over 500 points, Nifty ends above 25,250; banking stocks support gains - India Today"
-    ]
-   ],
-   "watch": "Check the economic calendar for today.",
-   "plan": "Keep size small until you have formed your own view.",
-   "short": "Nifty",
-   "name": "NIFTY",
-   "src": [
-    [
-     "TradingView",
-     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVlpORHBoTUk5Z0c4aWdYdmNCS25yTXFTb0M2QWJJdTVjUTE2TWl2YmdEaDBSakN6TVQ2WXJzZHJXemZsOEN5bGs3UFNWZ3JRTnhQY1FIdFVzTFN1YkNZX29Zei10MHhzLTg3MU1TM2JpQ0YwaXdUSnY5ekd5cUxCMk5oaWRzTGQzbF9UOURONjFUdG5UVkV1V1E4RnlKcXRFT29rVjgxa2hMQkNZMVUxNlBpRkU2ZkhINERoSzdaMGdsRS1MeXE0Z082N1MzS0RRTkE4amJrVXlxcEIyUzhSMWdoV3FvZHN2c2dhZUh4ZHhQR0dLQTN1NE9B?oc=5"
-    ],
-    [
-     "Business Standard",
-     "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3dpREFIY2FyT1kzc1JodXNIUmlsWW51UXQzTFVjWktPOHNwb2dDRXRKbU9vcFdfRXlRUVpaSlB1ZU8zWU5scnd4RXJsYmZtT1UzTUhacm9UaFBvSDVtMWFleVluMmFzVzZvN0dyMWozbHBTSElEb3NJa1BNU3pNU004UWNDMnN2TlhZSnZkWENJRkpvNW40VGx4TktIckRqT0lLVlZlNEM2SzZJeXBzUUJ6VkM5cmhqVWdRU1A0UlpaWDloMGN6dVFnZHU2WUnSAdQBQVVfeXFMTjI1SWJFdUs0SGNGbExHZVktRFVnZ21LLXlNWDZKTGlIb3JMTkNxeGREanlTNUJkaGRCcXdNZVN2MWZ0dFU4Z0ZqblhBcDY2emw0aUViRlhMRkVBYnhjMWJlWkxjRFp5ODZmQW1MRV9SdFpXWjV2YjZFSnN3alJPNHotSHNWR0V5TVRfVGRFclhYUEpGQ3UzTGh5VDZnUjdtWXJ1NWhzQ3BnUERtUEpjVG9wYjN3YUpqLU13Q2VaOWdRNnZXR191T2Zybm13ZDVwaDY3eGQ?oc=5"
-    ],
-    [
-     "India Today",
-     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONWZkRGRPUTVaUjdTTnYzTlJxdFd4dFBvbUZqcTh2WGdKT1hKNW41RHZQWXF4WWFFV2VSOXpUMDJvMm91dVk3QW56dndfYk04QzN0dGNZLUlIUGhOYTF2T2oxU1RYdTRYS0xNMW1CZVZzY0daalFzYW1QbmpLS0VjNHc4NXVoWEpJX3hVYk1DZzRjeUY5TmxKLW5EbHU4U0RuSzFQQkU0R2F0UENPY1NoMjVMZDlObzN0aDk5ZUZ1SV92TFZIdS1yTG9vYUFjVERfeGlhdUo4UnREcDhoWjJzUNIB5gFBVV95cUxNa05wbURXYURIT2N2djNiYTVaSVpoWnNFUnk2ci13NEpRYmFhV1NDaXdCckphRlNrbGdTeDg4NTltWHdhQW5BMk9lWDlvVHprN0lDRlo3NlVFT19wMXhFbk1Db3F6QkNEMEh4aFlrMjJUOUVMOW1HbDlZYlJqTVhKdGhnM2hoSlNqbm9CbW9XbG9DQXVwdnlUdTdmbVZDYkNISk5uLTJzY1BMaWVOZXBUWE9yZnR4RHAxYUQxREdyM0dOdERkNmFHQnpKNWFiRWg2N19KSnFsbEQtYmY1cmttcjJwQ1NDZw?oc=5"
-    ],
-    [
-     "HDFC Sky",
-     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXdKSUxXQmpRYl9Lekw4a3JMc0g2eFFxYThBZEN3UnFiQzJoVnJNMDBMRkktRTFteXlTZFZFb2VoOU1sUXpMTC00Sll3TEpUSU5nQlpEa1E3TGQzeW5UalAzUnJwa2J4eEJiVk0xS0xXdGUyRzZBNDNacTFJUDJfYVZwQzZnWjh1UGVKWXlUNGV2cGV0LVpKTDRUQnE4SDNsYVRyMXJGRlJpYTVmemdHMzVEVDk1TmJGdl8xTkJmYmRqVUlBcjJfSlRvWkhPYzdUZWc?oc=5"
+     "富途牛牛",
+     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOclJCZ3RoM0J5U1hBT0F5V3UwWkpmb0YwUjkzYW9JQm1GTHdjSHAwSEU1ZTlDSFpMWWdxSU0wc05fU29NRExGa09hZkxDbkRPcnR1ckQzMm9yUXVLTWdPbFZzMktCb0lCck1YQTAxWDZjWDBITUJXdWFTQkozQV9UdE5xUElkcUVBdzZNcklfTVEwWFNpWnFN?oc=5"
     ]
    ]
   }
