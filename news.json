@@ -1,30 +1,165 @@
 {
- "updated": "17 Nov 2026 06:31 UTC",
+ "updated": "17 Nov 2026 18:19 UTC",
  "items": {
-  "jpy": {
-   "head": "USD/JPY tests 160 resistance amid intervention warnings",
-   "plain": "USD/JPY has pushed to 10-week highs near the critical 160 level as hawkish Federal Reserve expectations support the greenback. However, growing fears of official currency intervention and rising bets on a Bank of Japan rate hike are limiting further upside.",
-   "bias": 0.1,
-   "tag": "Two-way risk",
+  "gold": {
+   "head": "Gold Technical Outlook: XAU/USD Bulls Fight to Hold Breakout Support After 7% Rally - StoneX",
+   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
+   "bias": 0,
+   "tag": "Headlines only",
    "pts": [
     [
-     "⚠️",
-     "Intervention Risks",
-     "Upside appears capped near the 160 level as traders brace for possible official intervention to support the yen."
+     "📰",
+     "StoneX",
+     "Gold Technical Outlook: XAU/USD Bulls Fight to Hold Breakout Support After 7% Rally - StoneX"
     ],
     [
-     "🏦",
-     "BOJ Rate Bets",
-     "Speculation of a Bank of Japan rate hike is building while the pair tests major resistance."
+     "📰",
+     "Mitrade",
+     "Gold Price Today: Can XAU/USD Hold $3,870? - Mitrade"
     ],
     [
-     "🦅",
-     "Fed Hawk Alert",
-     "Hawkish Fed sentiment is keeping dollar buyers active, though diverging central bank paths present risks in both directions."
+     "📰",
+     "FXEmpire",
+     "Gold (XAUUSD) & Silver Price Forecast: Gold Hovers Near One-Year Low on Fed Hike Bets, Can $3,832 Hold? - FXEmpire"
     ]
    ],
-   "watch": "Fed Chairman Warsh's upcoming speech, followed by US Retail Sales data.",
-   "plan": "Treat the 160 area with extreme caution, watching for sudden intervention headlines while monitoring upcoming US data.",
+   "watch": "2026-11-16 12:00 USD Fed Chairman Warsh Speaks (High; forecast n/a, previous n/a)",
+   "plan": "Keep size small until you have formed your own view.",
+   "short": "Gold",
+   "name": "XAUUSD",
+   "src": [
+    [
+     "StoneX",
+     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQlR0N09nOWJ4Tkthb3VGVFBJYklGSU50RHNGNG96elA5aWpnOGFVVGlUYUU1aVRKWUlyZElEZjJQRWFFcC1rV2ZDZ3ZNTkwzSEdkOE5qb1hrLS12T0tFRVFld0I2bWVnZ0FyakQ4eElJUE5rcVVZV0RrYkJlMWlOQ0pMYm5UR0YtUlg1RzRvRE9nUlZ0TEo4dWJoc0RtQTRBemhtMXdZdXhhOEFKWktDZGRuRDNuWlFlVUMxdnhwSHhVUGJJQzB2SW84NW4?oc=5"
+    ],
+    [
+     "Mitrade",
+     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXV1UDBNVl8xVVdRM19yZ2ZZbHR6QzIwM1hPczBJUjU5YzRxTGxiMzE2TEdfUTlWZXM3bG9kR0JvME5SQmV2WUZVM1kxdWZFTkpESk5QVzlwdDQxcFZDbzNNNjBtLTZtQlRiM2drVXQ5dkxmT0FmdHU2UFA5dEFhRjFiQy13czZoMlJ5bHJHTEl2bFdPa0tSbXdKUjhhVk0?oc=5"
+    ],
+    [
+     "FXEmpire",
+     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVk5Lb0pZQWhWYUVzMUs3aC1QMmJOUG5sRmlpYXB2TWU5YlNWVkd0ejZtUUVGM002eGhBUV9NTDJWa0pmRWkyODk0TldtWWdac1M2dGJxTTJMcHpwR1JWSVFoV0VyWDhZc0VobzFRbngxeGRRMGdRQ2NWN1czTFExZ0k5QkVqM0pxT3A4RmlVV0o5THg4MXN4M1h1a2c0MFFVQTNZZ2pheDE2d3FIVjhGaWY1dHdYckFkWnFjU1JmRFV5ZklhVllqYUU3dFVPUUU5V3kwQTZuamhvR0gxdGc?oc=5"
+    ],
+    [
+     "FXStreet",
+     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGNoQ2VlUkl6MW84RkNQRjJtWU9uN0c2cnBsMHFybTJHLTZHejNRYVNHbXE5NlI4UnVHZVBPZEt0eUpXcXRSWVBZdmhERVhCSmlHbnd3ZG96VXdpVHlJeVhJNHAxeVlIM0JzWjBhVHNvNUF0VlhkSjZ4QUlkeUZ5YlNsM3J0S3pmS3J4RVBUeEZvVi1SUlZ3UThwbkRBQlJIdmR2c0xWY1lRcjNKSHVCT3h3?oc=5"
+    ]
+   ]
+  },
+  "eur": {
+   "head": "EUR/USD (EURUSD=X) live rate, chart and news - Yahoo Finance UK",
+   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
+   "bias": 0,
+   "tag": "Headlines only",
+   "pts": [
+    [
+     "📰",
+     "Yahoo Finance UK",
+     "EUR/USD (EURUSD=X) live rate, chart and news - Yahoo Finance UK"
+    ],
+    [
+     "📰",
+     "StoneX",
+     "EUR/USD forecast: Dollar strength puts 1.1000 support in the spotlight | Currency Pair of the Week - StoneX"
+    ],
+    [
+     "📰",
+     "TradingView",
+     "EURUSD: Euro Breaks $1.10 for First Time Since April 2025, Exits Rising Channel - TradingView"
+    ]
+   ],
+   "watch": "2026-11-16 12:00 USD Fed Chairman Warsh Speaks (High; forecast n/a, previous n/a)",
+   "plan": "Keep size small until you have formed your own view.",
+   "short": "EUR/USD",
+   "name": "EURUSD",
+   "src": [
+    [
+     "Yahoo Finance UK",
+     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVm5mak5jUHN2V1ktajNpZjdHRjVKUlFWLTZsTWtROWp6M2xWU2xaM3Y2NHZOVDRKLXl6UkxaYmJJeVFsQ3dsWUE1Mmlsa2tCNkNZaEJseTF5Zw?oc=5"
+    ],
+    [
+     "StoneX",
+     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPajV5alBUQmNrOTRHcGVuZWJxSFJkNDM2OGh4TXN3cy16RXBQVDBmLXJSV3M0eFZPS0VXa0ZoNkpqMW9EWlp5VTlDRUxWOE42QUpDZzZuMzZOUnFlczhNQkJMR3QtZzRkQkNyUVB1M1FXcTBzLVlrZ3MwMUZObjVxeEhKZmh3c0lXSnVGTTlFZ1VqMlpHMW5iTHBrcHlaYWdnblNnWnhDM0xzeEt6bVB4cndfajEzcktKUVpkRGZsZ2tZQ1hYTUdRSzAzOGJUTC1kSy1tZ29fRXFSM2gxajJ1eHhHYVl0RUJkUmc?oc=5"
+    ],
+    [
+     "TradingView",
+     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaGdkek5WVE1ZVnMtOTB2ZEZyOWtyNGtFMjdSWEtJSnE3MDhhLWVQRVlmU3Q1ZEJkdWpTcVgtY1loVjFUVnpYbldZaFJpbDM2bFdVREo1dWNFcFBsOHRZYThTU1lKc0w3RmdVNUs2RWJmLTYzbDY2ek85SXBFMTFORTRrUkhhbzBuR2xHejg5U3dRal9HWDB5OUE5aFZuY2RYRDdGblNGQVVsOHB2NDNnUW1FUUd3Q1ZWQ1dYTHJaX05RdnliUS1fRTJpR0QyTE1JYmJNTg?oc=5"
+    ],
+    [
+     "FXStreet",
+     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjRxWFNzTFFJb2tSZVBvanE1T1FTb1hXZ0xmYXQ5WngyRWI2MVpPTFBwN3BTd1ZSbXQ2RDdXUC1TSEVabEtDLXdXdGEzRy0tVGZIbXJQd2c3WXFBS3V1VkQtZk4xUkVyN0ROZjJmalEtMU1UUjRac25ET0tvZTFWLTBkRGwyLTdxLVNMa1d6dGN4UFZfbi14cURId0hWV1JyMVExTVE2czdpc25fMVpsMFgwc2FtZGw4MlJZTHhlMXpmVHM?oc=5"
+    ]
+   ]
+  },
+  "gbp": {
+   "head": "British Pound Technical Outlook: GBP/USD Tests Pivotal Support—Breakdown Risk Rises - StoneX",
+   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
+   "bias": 0,
+   "tag": "Headlines only",
+   "pts": [
+    [
+     "📰",
+     "StoneX",
+     "British Pound Technical Outlook: GBP/USD Tests Pivotal Support—Breakdown Risk Rises - StoneX"
+    ],
+    [
+     "📰",
+     "Yahoo Finance UK",
+     "GBP/USD (GBPUSD=X) live rate, chart and news - Yahoo Finance UK"
+    ],
+    [
+     "📰",
+     "FXStreet",
+     "Pound Sterling Price News and Forecast: GBP/USD snaps five-day losing streak amid growing BoE rate hike bets - FXStreet"
+    ]
+   ],
+   "watch": "2026-11-16 12:00 USD Fed Chairman Warsh Speaks (High; forecast n/a, previous n/a)",
+   "plan": "Keep size small until you have formed your own view.",
+   "short": "GBP/USD",
+   "name": "GBPUSD",
+   "src": [
+    [
+     "StoneX",
+     "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd0dfRG5aRWE3NGFXSDFpUTA3ZEVleWpuVTJTX0M1aTkxNF9qSTlLZVdPd2JwSlZveWVkMm9GMEgzWVF6Sk5pV2QzWmlnbTlWWTJNMWRmZVpEcHJlY1NDM2xyR2JMU01EOUlYM1gyOE54WVBja0FFXzJORk1NSXNZZENVdG5UY1VkejI0SVJKSk5kXzhHX3NLajV6UktOa3ozQ3pQQ3QwYjd6MjA3QmdTWm5YbFFua2xQanNWZU4wLUc2cEZmNDdyV05n?oc=5"
+    ],
+    [
+     "Yahoo Finance UK",
+     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NbzZVOXY1Z0JsbVlxU2paRTdhaDZSTFJ6RzRCLUF1ek1EcW9JeEFXUWdHem15UW0ydzAzYTNDSy1xWHNWS1d3c3lGOHdjQXZTQlN2Y1l6NDNEUQ?oc=5"
+    ],
+    [
+     "FXStreet",
+     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObHc5T1RKTGpYdVRfTzNRZmgxVTRrZGNfanFzN1MtMEFIU2V6b1pfMUFCZTJqcWRUb1BfRnlia3EydlVfX2c5VlBEd2Q5dHc2QmEyWU0wV0djUGNkeEJDZFF1MXUxWWRyNFpCU0xvNnJwUmJpeEU1SGZEOHpqNEtNVjNfR3VBMjVNOWluX254azV2ZG5mR3hCbHpkTEhEMHA4U29uakJvQVhnUm1Lc2V1VnVROTFXOXhXWDVyUFVtSHh3bTdDZVhlR0hRX3dzNEVrNTZwMVBDdGRVaUxDM3pvNVFvSGU?oc=5"
+    ],
+    [
+     "CurrencyNews.co.uk",
+     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTldMVGNLYXBEZ1Q5dkNwcWhUcUFXS01Xa090UU50a1dCNVExcHdQRUpfNW1iSmdvS080Uy1UUG5HVFFDWjVoeHpEU1JiekFBYzVKcXVsNWtSMmJSMHRBMGZUcGJhdWFFR3QzX09wRGpWOXJpb3BHX2JYSzNmWXlMX2NYUno2V2FEaXdQa1V3QlZKaHNOY1B3VXpOdnlVY3ZkdHlZWGx1dkRZTHlhRl9jTXB6UGlYVGRha3NYc25GSHhLSEo0bHNwa1Bnbl8?oc=5"
+    ]
+   ]
+  },
+  "jpy": {
+   "head": "USD/JPY, USD/CAD Outlook: Fed hawks put dollar bulls on alert - StoneX",
+   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
+   "bias": 0,
+   "tag": "Headlines only",
+   "pts": [
+    [
+     "📰",
+     "StoneX",
+     "USD/JPY, USD/CAD Outlook: Fed hawks put dollar bulls on alert - StoneX"
+    ],
+    [
+     "📰",
+     "FXStreet",
+     "USD/JPY Price Forecast: Dollar finds support in the 200-day SMA near 158.80 - FXStreet"
+    ],
+    [
+     "📰",
+     "Forex Factory",
+     "USD/JPY: Dollar Bulls Eye Breakout Despite Intervention Risk - Forex Factory"
+    ]
+   ],
+   "watch": "2026-11-16 12:00 USD Fed Chairman Warsh Speaks (High; forecast n/a, previous n/a)",
+   "plan": "Keep size small until you have formed your own view.",
    "short": "USD/JPY",
    "name": "USDJPY",
    "src": [
@@ -33,16 +168,106 @@
      "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEZMVEp4NHR6alg1TnZ0LUMxaGgxUnlvVkhBY2dSb3Rlc0hoYzIzbUJidzVsbzlQeUxSOG9ZZ2NJR05qeWVnWElkZGZON0xmOTluaFpSeVZFSWd4UXk0TmF5VHhSek9fNkpRbWJBTnFTY0pjNHlVWXpwQ1NlU05XOTIyaVluUmZ6aEMtWnZpbnpFemFsSDBRTV8tMUdHUWZpZzVIRTFoU1ZWMlE?oc=5"
     ],
     [
-     "Saxo",
-     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWW9pXzByaXVfaHFNUU50Z3hxQmIyd0g4SDZ0QnZmQUhhX2ZoaWlJVWRiVnl1QmxwVG9xcEtJZDBfdWVtYUg2a005WEI3WTBJVWlXSHNCRVNwME5KbjVHSUtzeVVabG56alVhSzVCNVp4SzlCSl9TSy1hNXJ5VUZsMw?oc=5"
+     "FXStreet",
+     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWdRdjBsaHlVVVo1UUgzZGpqeHBmellpeWIyZ2hyY3g2b3lLYkxGa1JRTVQtRWg0QzRjZ3E2VGtEYUR6RlBVamg4OWhvOVBseFVSN2UzZjRHVkU5UXJibG83bXdubU9BMXJjdV9fM2dJdnVIZmhnMnV2dUF5N0Q1aVNVWW9zMEFCQzhEXzNsd2tMYTVKd255Q1ZYenBPQW5SQkFrS3U2Y3dYaVJiWmo1c0d1Z1BPbTg?oc=5"
+    ],
+    [
+     "Forex Factory",
+     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYS12Sk9XR1F6bmx1YzQ1ZTRjaVVOSUJkT2dGRExWbXlLTlVRY2NhdXlwRFRtelNkTUZDOVZodUQtUG81RUxVR1hSS2RZYmVEUzFXam9MV21KYkwzNEVJUnFVdlVUWDhyWFlMb2twOWpuYk44MUI5UGNkUEdqUW9VU2VzVG9SeDlFUFZEQ25OUWhBZ0dZNTJfQ19LUGRjZWpRVXfSAacBQVVfeXFMTkV0NTZDRVlkQldVNm9kcjBSZDlWS3FucFV4cXUwVVlnLUl1aHlhS2IyOWNFakpaRXZqTDJMQmsyRnJRRWU0c3phTUE0dl92ZUZ6YzA4ZTVNVUNfN2d2VWVoak5qcXV0Y1NibGxWY3RsMUJjd2xTMjdHd3M4QUJOcWI5MldfNmR2T2Nla1B5MkU5UjI0XzBVVm1rTml0Rl94ZTZ6dGNheDg?oc=5"
     ],
     [
      "FOREX.com",
-     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFh1T042dGR5VEN4c2tmTW5ubktnN2k3U2tiLXRXbkZyYVJnT1VDTnhqenBqLTJjc0s5TXU2Q1J1cVJJbmk2ZEk1X2ZsODRJM2NXSTRRTC0tdlA3VVluWnlhY01QU0VSUTV6Sm1SZXdxbVZkSElUd3o3Z3BZWXhfWU9lMXMxNmFVa0xNaEwyR0F2Y09OU3h2WWNEMNIBpwFBVV95cUxOR2F3MmJYTlM1MVBQMm4zQ3IybHcxdTk3MlJ1Q25tM2FFc3FFT1hRWVZPeE9IS2tERGFKdFN2c3VnTU9NSnFrSDdKWVFMbS1KbFZrblZsREpzSlpkUzNZcU5xaFN4UnFuOVhmMUlWMmFwdGZJbUpvVmREQ1RCdTVEcGpjX25BUEhoUlNJSnB4THN2TENhQWlpM1FFWFFJS1dYQy1BMXRFOA?oc=5"
+     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMUVOTXpFekNyWXhhNzFKemJoVnp3enFDemRJWEdwbUU0d1NJUXJOaGpaQUxTZUYycy1KTWZnMkdkcnRReFRheG85Q2pBZ1YxRlpBcjVQenFGQWRpakJLVGQzQjN4cHhTRU9oMGhvQ1FWUEFnS0k1QkhJdkpJLWRmREVjQmtHc3JvbWMxMTJhNk9iVFZlYm9PV0xQMkhGc3RTNWtkV0k1dW5iZknSAbcBQVVfeXFMT2tZenpoTTRVbEJubjg1c2t0SDZkWTZRY2JqRXBmZkdicnJRM2tVeGV3Umw3SnpQOG1OSEJ4SWhRcURHSGxvWkZGVGFMSDc3ZS1DUnJDZFJmTGtJZkdaay1Eb21CRUdDVmRoNGpmcEdfTk9acDl5dHFRck5TbVNYelNmS3ZJOF9vbVdiNjJqSU1rTm1CRlB4NWRQMmFTYlhoRnc3dk1iakFLSlFOcmxpTDM3bVp6Y2o0?oc=5"
+    ]
+   ]
+  },
+  "oil": {
+   "head": "Oil Prices Stabilize After Monday’s Sharp Selloff as Global Supply Surplus Offsets Middle East Tanker Risks - EnergyNow.com",
+   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
+   "bias": 0,
+   "tag": "Headlines only",
+   "pts": [
+    [
+     "📰",
+     "EnergyNow.com",
+     "Oil Prices Stabilize After Monday’s Sharp Selloff as Global Supply Surplus Offsets Middle East Tanker Risks - EnergyNow.com"
     ],
     [
-     "富途牛牛",
-     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOclJCZ3RoM0J5U1hBT0F5V3UwWkpmb0YwUjkzYW9JQm1GTHdjSHAwSEU1ZTlDSFpMWWdxSU0wc05fU29NRExGa09hZkxDbkRPcnR1ckQzMm9yUXVLTWdPbFZzMktCb0lCck1YQTAxWDZjWDBITUJXdWFTQkozQV9UdE5xUElkcUVBdzZNcklfTVEwWFNpWnFN?oc=5"
+     "📰",
+     "globaloilshock.com",
+     "Brent Crude Oil Price Today: $91.67 (17 Nov 2026) | GOS - globaloilshock.com"
+    ],
+    [
+     "📰",
+     "CNBC",
+     "Oil falls as recovering Middle East exports bolster surplus outlook - CNBC"
+    ]
+   ],
+   "watch": "2026-11-16 12:00 USD Fed Chairman Warsh Speaks (High; forecast n/a, previous n/a)",
+   "plan": "Keep size small until you have formed your own view.",
+   "short": "Oil",
+   "name": "USOIL",
+   "src": [
+    [
+     "EnergyNow.com",
+     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOakJrby1fQURoQkdGUXNmbTQtZHhsWWxBUXdvQUVxWmp3YTM2TXQ3WEZZVTJBWndvMTlPa0JUT0tQanE0YmpKeWN2ZzFiekY2T05jU1Y4ZDB5dmRZV2lFRXVUMVV5YVlPRTBKMkZHekpoYkZwRGo0R0pFVEVUWThDQ2k2VmlvX1ZWUUpoeXRIcWNtTWQtSGpYSmg5czg3OEpfUl9TS1A2Wm42dXI1Y0Y5LVdiSGV4WkhUZ2dfRUoxanFmWGs5UFZfRkpTSmhrMUlrVV9z?oc=5"
+    ],
+    [
+     "globaloilshock.com",
+     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tNXBMTlAyY01OeTJ2X0JBb091eWZyclc3dVdSYTFtWUtTc2g3SERfMlZTMS1Wbk4yakFNeHdUc3dxQVBkVi00a3NlVmFWRG45eUVrT1BCcFQ?oc=5"
+    ],
+    [
+     "CNBC",
+     "https://news.google.com/rss/articles/CBMickFVX3lxTFA4aGJUaWRRWTRsVmZlZWczX3NWUjd2dWdVUThZSG96UjdLRG5ZdDR6YXJNUU9XU1psNGppOHEtbi0yNWlGRjVZRXkybzNOVjNrb0owSnR3dlowd3FHaEdPbkJlNHA1UEJoSktHSkZLTTZYQdIBd0FVX3lxTE8xV2FqQmN4aFdHZHpSckhTaXVsSVV2U05JRG1iUVpQTFc0TF9ac1ZwVUFEM3p6REtlMHlnQ05zeVB2SjRqWjFIT25HM0phSjMwandLTHBoMUxXLTdFVXpPNDQwRUMyaGJoTHRMdkdCUnNWOHJTOHA4?oc=5"
+    ],
+    [
+     "FXEmpire",
+     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0lOZE5hcENMckxGQUF1VzI0aHRVa000VGFVX2JCV2RBTGpRWXFrSmMtTE5FSUhqMDB2MDBZYVdzbjlsMVZpZWxReGdMMzBFSkRVTFpINFI5Wm5iMTdXcnpmSVpjdTc0Tmk5TGY5SGRJLUpkTVlYTVV2dW9ia3dIQXhlZHN0eUJxZWpWSXdQV05zSzFUN0U3MTlXU0M3SjRGTklXYWwxQWVlb0l2bDNTLVpUTkJqUQ?oc=5"
+    ]
+   ]
+  },
+  "nifty": {
+   "head": "Markets Are Rallying, But Here's Why You Should Prepare For A Fall - NDTV",
+   "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
+   "bias": 0,
+   "tag": "Headlines only",
+   "pts": [
+    [
+     "📰",
+     "NDTV",
+     "Markets Are Rallying, But Here's Why You Should Prepare For A Fall - NDTV"
+    ],
+    [
+     "📰",
+     "Upstox",
+     "Market wrap, Nov 17: NIFTY50 ends at 25,387, SENSEX closes 427 pts higher as banking stocks power gains; check factors - Upstox"
+    ],
+    [
+     "📰",
+     "HDFC Sky",
+     "Stock Market Today: Sensex, Nifty Mixed at Pre-Open - HDFC Sky"
+    ]
+   ],
+   "watch": "Check the economic calendar for today.",
+   "plan": "Keep size small until you have formed your own view.",
+   "short": "Nifty",
+   "name": "NIFTY",
+   "src": [
+    [
+     "NDTV",
+     "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjNWS1RKejVsUllfdlVia2ZCWm1GNjRPMnhWTFRfNGhEVlkwNTZTQV90dzZQcDhnZ21uTnRGS01ZLXdWT1EyTTZYVmRkQUF3VDJwQ1R0WldCZW1CX0FWR053UWlkSkxzOFVPR2x0b1N1UldqQ0ZwQ25TcHdHc1kzT1ppRVNQWVBhbG8zWTQ5Q1FKOHdiTmZ3VENUMlcwSG1FVEVSaFBRZjJLS3hrcnBHRWU0Z0NCZTJPZ3ZzNkNNZGdzeFRLNWhj0gHPAUFVX3lxTFBFXzdoeGltdU1GX0xybTRIckhpTzd4enZQRzR2R0hreGlqRWFYS0h0SlpFdk1oeVV1cWVZUUVzTW5LdFdZRGxEY3RWNklseHpZLXlLakd5Vmg1bWltaVV4bzhaMUtBeWtNLUhUenc1SE5BWHptaS1fMmdPRUdUNTNvRkpEWVFET3pqczVmT1c5Rkc2SlZ4RU5rMktwMUtiSU1nZno5Ulc0VWZNMGVBYjJhbU9WZGNVa01VS3Z1MmpVelJvVUc0N2pvbVFSLUhaMA?oc=5"
+    ],
+    [
+     "Upstox",
+     "https://news.google.com/rss/articles/CBMihAJBVV95cUxNd1d6T0hfN0w5d3VsTTVzTV9xZXJHV0VvY184OFU3Y21rS1kwdkZVWjlMUHlVeHdjNEpxZmxmdHo5QnVaRTkxaTBKbzJUdHlzMVF0MGlMNHdfOVRWXy1UME5TSmtZQW1iZV9aelRjUVdoaEtEbjRnamZidDNpS1pxN0NkRnloM1BKRVlRMTZHOGEyb1p4YjV6RmVRMG1PNnlWck02d2U4U1lJbE5UU2pBajNNdmp2NWl6U0puQ09ZOEVKd0pkSlBNM2lxVkRnSkdwVDg1SlByTlRVc3BTdXoxRWwyQm1xWXIzQUh2V0RlbTVKUFhEUTVXUUNucTgyeU1UTlloMg?oc=5"
+    ],
+    [
+     "HDFC Sky",
+     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkVmRmhjUi1VZlpWaVpqUFc2YWZjNHZLQTZwMGNPcFdBaVoxdG1PcVVWT0d0d1hfcE91ZDh4dGNNMlRKMnBGcWtOSVlHc3Z6a1h3S0liYm5DRUpveXV6XzBNc2IyRFA5a0pHNHNieGtNNmJleGN3bkxiZzlLZFc5aG9zRGpuUVZwVWtiTUI4WnFUUFBMLXZRQ056Q3FaLUZLQ0tnNW45aGpEQQ?oc=5"
+    ],
+    [
+     "Univest",
+     "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZZTdUQmRkZXZUeDhWQURUY1BDTHI3ZGtCOGdKQ3FwbXAyR19uZ21JYk9OOGRjREs3ZlpxVGJNX0lJQ2w1Y0J6aHg0OFhXVThJLTYtRm9lMEdZOGdlZ052cjgwd3hETDlPSDFaMHhleG5fTmdW?oc=5"
     ]
    ]
   }
