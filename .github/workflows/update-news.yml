@@ -8,6 +8,7 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -22,7 +23,7 @@ jobs:
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
         run: |
           if [ -n "$SUPABASE_URL" ] && [ -n "$SUPABASE_ANON_KEY" ]; then
-            curl -s -o /dev/null -w "Supabase ping: %{http_code}\n" -H "apikey: $SUPABASE_ANON_KEY" "$SUPABASE_URL/rest/v1/journals?select=user_id&limit=1"
+            curl -s --max-time 20 -o /dev/null -w "Supabase ping: %{http_code}\n" -H "apikey: $SUPABASE_ANON_KEY" "$SUPABASE_URL/rest/v1/journals?select=user_id&limit=1"
           else
             echo "Supabase secrets not set, skipping ping"
           fi
