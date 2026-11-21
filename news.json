@@ -1,5 +1,5 @@
 {
- "updated": "21 Nov 2026 18:05 UTC",
+ "updated": "21 Nov 2026 18:46 UTC",
  "items": {
   "gold": {
    "head": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March - FOREX.com",
@@ -47,11 +47,16 @@
    ]
   },
   "eur": {
-   "head": "Euro Technical Outlook: EUR/USD Support Reversal Sets Up Breakout Test Ahead of NFP - StoneX",
+   "head": "Euro Short-term Outlook: EUR/USD Plunges to 19-Month Low—Bears Face Critical Test - StoneX",
    "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
    "bias": 0,
    "tag": "Headlines only",
    "pts": [
+    [
+     "📰",
+     "StoneX",
+     "Euro Short-term Outlook: EUR/USD Plunges to 19-Month Low—Bears Face Critical Test - StoneX"
+    ],
     [
      "📰",
      "StoneX",
@@ -61,11 +66,6 @@
      "📰",
      "Yahoo Finance Singapore",
      "US Dollar Price Forecast: DXY Heads for Fourth Weekly Gain as EUR/USD, GBP/USD Slide, Can 103.70 Hold? - Yahoo Finance Singapore"
-    ],
-    [
-     "📰",
-     "Investing.com",
-     "UBS flags further euro downside as dollar strength keeps EUR/USD under pressure - Investing.com"
     ]
    ],
    "watch": "2026-11-16 12:00 USD Fed Chairman Warsh Speaks (High; forecast n/a, previous n/a)",
@@ -75,7 +75,7 @@
    "src": [
     [
      "StoneX",
-     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQTZvUFUySG1nNkdDYUJlemp6bk9GS0hva1FrY3ZTejl4cW5iTkhDZWhVODkzSTdzSENWTU1sajlFdUpIX1dEQ0RHd3lJV2tBNEVjMzdZaUNmLTBIZkJ2NUlQby0yLUViUl9VdUYxUFo1RWlWMFdocXVONGhQY2FLVlV2MFRoLW9Kd2ppMlAxWGRfVC1TbzJaUzV5NkFabU9sbjNuOXRFbUVKRjNXeDRYRTlaMDBDYVBoSGtIVDBQQkZsVG5Sc2RPUXJR?oc=5"
+     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdXN4UHN4azVjWHRuTEhlZ056MS1BNlNEVVNTOHRXUVE4ZmhDTGFWdDVER0hISFFLYVB5RkZTdWIyZHU0SWhTUkROTkpraThtYjZwcEJ0Q01BSDhRT3JnU2pvTFFSNWxkei1KbTBXdGltbzUtVmpLb21WUVFmSDhaZ08xUk5VbXpzQUdVNUdsT2tVRlVRdWZ2RE9ZVmJ1NlZoeHdCaEdja01jWTJWTU4yRWJjQjZYX1p1RVBKVVE0bklEOTh5UUVV?oc=5"
     ],
     [
      "Yahoo Finance Singapore",
@@ -86,8 +86,8 @@
      "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjF4dENXUGNtM01qYy11aXloZlhBZ3N5SHhDdFlIbnFMcEp4dlFleWxKTGJWdU5sTGwtbmRDeER1R0h0eFZUQUhRVTRVWVNPd2NaZ2JMZklNRTNYZ3hISUpGdFpCQTBaZUllMzZocHZKWkRQMjVpUk83UXJtMVYtWmIzakJJd2xFbHdNVjdKcWhSSVloTWdpQkU5S0hJSVVHZkdpSUFSLXF2X2ZzXzJWYW9nSzFqNkRtRzVUcGlnYnpmLS1pcUlF?oc=5"
     ],
     [
-     "FXStreet",
-     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT0p6R1dwekc3N2JEWUVmTXo4ZVpDZVFPS2Z2alFqbDE4STNZQ3BJUDNxVlRSSFhCYTA5QkZlQzJoWWVNTkdIQ1B0blljVDRsME1ybUM5dEdFRkNqQUJZVjdnazJQM2t0YS0zVWVBOUtHdmV5NjVLX19xcGZFeHdVdS1JdHhyaWRtdkQzNkVudTBKVkduakRuOUw4bmdPVjNmTXltdGpNTkxVRmpaRDJZdXRTV3ExWmVEUDIyUWxjZFhRZWhxcUtWbXdTXy1sMlpXUVFhazNn?oc=5"
+     "Moomoo",
+     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1MVVhnTWEtRFk5amxURkRsZ0hDd0ZiczFpMy04VEtoa3NsdHVyY0R6YkUzU21zYXJ5V2R6UGtMVEsyeElKMkVOT1pnY2pnaGNCM2ZvbnI5ZXV3eUNmOExXQW01cm9LWGtrS1J5b21Ob3JtTnVwUURVSmxvWnJRaWJzZWFrS2ZnOTZXSjloVDNfU011V3RZcmE3RjI3SnA0cXAyT0tlSFhUS2pUNVV1cWZ1eE0?oc=5"
     ]
    ]
   },
@@ -154,8 +154,8 @@
     ],
     [
      "📰",
-     "www.tmgm.com",
-     "USD/JPY Price Forecast: Key support around 158.90 comes into view as US Dollar approaches - www.tmgm.com"
+     "FXStreet",
+     "USD/JPY Price Forecast: US Dollar approaches a key support area around 158.90 - FXStreet"
     ]
    ],
    "watch": "2026-11-16 12:00 USD Fed Chairman Warsh Speaks (High; forecast n/a, previous n/a)",
@@ -172,12 +172,12 @@
      "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVhEQ011NkJCNkc5RTd0RTRTQTVZTFh5aGdyejRWWHlFNVJCb18xYUtTODVXRzJhS3d6blBKRGxfVHhFeHlCaWFWbkRpaEZGcTlkV214STN4a3NoWW1CZm5Vb3MwUnVDbkRoUXNMMG5MekVIdUh2ZldpYjlaYUpzc0FBa0owdnhFaFNmaEJQMEZPbnRiSDF5NjRaRlJYUHQxX1BBbNIBsAFBVV95cUxNNTNqd1I3TkpuOVMteXdSRFhDLXRYSEpqSU5nT0tBUzg3aHBnYUpkZExCLVQtdkdHUGVpUERCSHRxRzc2TWlOVm1vZ0k2V29iVy1FU0poLUVvOGNSSG1Jc0ZURmYxakZiR1ctaUxScUdtazVDM0tWRXpmUzcyNXQxYTdfVTR0Ukk5bGpZQUFuUlVMaXdNX3E0ZU5ETXdtRmdtQUoyUUVfRUJ5SURybm9wNg?oc=5"
     ],
     [
-     "www.tmgm.com",
-     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM1RFUWpRMW1SZUpENVY4bThOMjBOdENab3l2U2RBRG5iSU9rNEZabWswenExX2IyZFlNTE1YLWppZjFZbTJzTnI0dU9rYUhyZ1Q4Nm1VN2tUOWlZZ1NqdWVJT3NNamlFeFRveFdfOVVSNnh1LWk2d0o2WUwzd3B5dThqckJKMXZ5ZGN6bW9oeVM3UTNnYzAycGt5OHVJOFZ3ZFNtSmpJTHNmYUFFeGl4Mlg5aTB6WTJydUNRVnZfYUV2OFZvU1lhWHV2aHlRXzktRXhobVRlZkotYUxH?oc=5"
-    ],
-    [
      "FXStreet",
      "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTE95dU1zeG8xSnRHbms4T0NCSzNfX0lySHlGVmh0bTFFQ2hoZFhqV3plMUdydHpkdEFFUmVPYWxjYXVnSUhuUXVRZWpOd2ZfTjh4YUNHcnpuSXRYQy1WMXJaOEM3LWg2aVNGQVhhZDBGRWg3ODZwRThWX1FJOVhCdnlfcG9FdkVGMWdBalFBYi11S2dza0lnYUxqTllZd0NsVEs0b29YY3U0d3FaekJWLVdvZU9ES1o0cWc?oc=5"
+    ],
+    [
+     "www.tmgm.com",
+     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM1RFUWpRMW1SZUpENVY4bThOMjBOdENab3l2U2RBRG5iSU9rNEZabWswenExX2IyZFlNTE1YLWppZjFZbTJzTnI0dU9rYUhyZ1Q4Nm1VN2tUOWlZZ1NqdWVJT3NNamlFeFRveFdfOVVSNnh1LWk2d0o2WUwzd3B5dThqckJKMXZ5ZGN6bW9oeVM3UTNnYzAycGt5OHVJOFZ3ZFNtSmpJTHNmYUFFeGl4Mlg5aTB6WTJydUNRVnZfYUV2OFZvU1lhWHV2aHlRXzktRXhobVRlZkotYUxH?oc=5"
     ]
    ]
   },
@@ -199,8 +199,8 @@
     ],
     [
      "📰",
-     "CME Group",
-     "Brent Last Day Financial Overview - CME Group"
+     "Gulf News",
+     "Oil price: WTI holds at $85, Brent at $92 as crude prices remain under pressure - Gulf News"
     ]
    ],
    "watch": "2026-11-16 12:00 USD Fed Chairman Warsh Speaks (High; forecast n/a, previous n/a)",
@@ -217,12 +217,12 @@
      "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVURWempSTTB1bGViRG55d004bHRDbFhndjdDa0RUcXdxMVJVczBoeHg0bEdFYzRxaFh1RllseGN0QnNxdmw2bEZ4WTkyRG04RXo1WkhBNTNTdlNYMXc3TVh2ZmY1VksxUURzdFlLUkJObXFXX2JQMHVJc1Vic2RFYkdMY2lCZDhKZkFNNTIyVnB1VzB0YnBDOGJrZ3FkdzlPVFYyeHBOS2N0MHh1dHhuQ19qT1pCaTVoVmRZeGE5VkJSLXYxVXEwRlRMQTE0M191MlBhWXJ3aWpmek56aG5mdW93?oc=5"
     ],
     [
-     "CME Group",
-     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGU2ejZ1bGYtNEFGUUVqYVFyaFJ6NGFQWFRxM01tU3kzSWtUNDdSUDRRSnF5SDRORGVBbGZDeWstQUR2SFdkVlBmVlp2eGxwTjJ3NHZhTG41RXJHZGlCMWczZWszTXBadHI5clRjSEJ1WkdOdklQWHNGeTlBdGFFMnNqNndmZw?oc=5"
-    ],
-    [
      "Gulf News",
      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb0FlbkZLTHZ5VFFTQ19tS1ZqNmFWaGhnbU9tME9OVVV5T01Pa1VadnB6VlltcGpuMGhSbzg3blRmdHpqS0ZwMEVQYTdlSHRBOUZwVHRXbVpmV2EyQjI4MW16TDlrTFJmc0ROWlJZa2RhVWZPMDhJWTBiMlFNNE42bTNEMGZsTkdwQmFLY1F3UzIxbWFNQ2tVd2JhR01EOGxBeWlmQ3RNaTdsRTJpc19pT2RFVDBUVWVRZkdad0laTjR6d9IB1AFBVV95cUxQaERNSDFxSWFpbVNVLTJCdXdVV2xFaFluQk9OOE1sNVp6OThEOWRtNmFDYXZETVJ3Q2RVRHpQblpNZEZXTjVLZ2ZSU2Z0SUFPenVTTTNDMzBlSDNKVDRiTGpGa0RkdnZfR2VHc2JCTExsSEFWUG5ZXzB5SkhEYXpNWFhFUTJqTmswaU5uUGlQSXRjMUtTcmRRSVRwTDI4Skk3YlU1bWM1a082U2NrRF9LOGJvaVlvVS1hM1BucUI0ZkFtMDRjRUVEUW9LZmY5OE5Sa1VybQ?oc=5"
+    ],
+    [
+     "HDFC Sky",
+     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWUVXd2t6Ri1rNDN1QmZRS1NNODh2WXdSVHFNRlBxUHRSMTRLbVVtOFZiczkwUEhPSGxWZ1lnTGF1WVlRemZRdEsxV3g3cGZkbkhLVGVSdDRBVEhDZ21WUGs2STBNeUM5aU4waTE5Q0tEN2MwNkRjNHF5Wm5IZkk3dGdSSEMxaDhzTDNFY24zUWhfTy01VmtTOFRnNmJoUVFBdTBFWDEzRFVPUnFMWVpnMEZnNHhjN2xQMVBZaXptYm83czdCMk44ZDVqd2NrSGRoSUhtNnV1WDVBR21yYmc?oc=5"
     ]
    ]
   },
