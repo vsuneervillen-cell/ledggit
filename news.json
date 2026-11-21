@@ -1,12 +1,17 @@
 {
- "updated": "21 Nov 2026 10:51 UTC",
+ "updated": "21 Nov 2026 16:58 UTC",
  "items": {
   "gold": {
-   "head": "Gold (XAU/USD) Price Forecast: Deepening Selloff Nears Major Support - FXEmpire",
+   "head": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March - FOREX.com",
    "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
    "bias": 0,
    "tag": "Headlines only",
    "pts": [
+    [
+     "📰",
+     "FOREX.com",
+     "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March - FOREX.com"
+    ],
     [
      "📰",
      "FXEmpire",
@@ -16,11 +21,6 @@
      "📰",
      "StoneX",
      "Gold Technical Outlook: XAU/USD Bulls Fight to Hold Breakout Support After 7% Rally - StoneX"
-    ],
-    [
-     "📰",
-     "FXStreet",
-     "Gold Price Forecast: XAU/USD in a freefall - is a bottom in sight? - FXStreet"
     ]
    ],
    "watch": "2026-11-16 12:00 USD Fed Chairman Warsh Speaks (High; forecast n/a, previous n/a)",
@@ -28,6 +28,10 @@
    "short": "Gold",
    "name": "XAUUSD",
    "src": [
+    [
+     "FOREX.com",
+     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQklYQS1uSzlZYkU2V1h0RWtFdFd6WXFJS2ViSHpNeUN1N2s3OTdMSkFlNFd4dzR6cDZ1dUloTjR5LTFaa2tKbEdrT1RaS18xbEN0Q3hQT0VNT0o2OWxmTzhCYWhBWEJrV0dIZ0VuSW9qLTkyLW1xcENzYWVPaElWbE5zV0VyeWFLOUFPMFRUZHdGSlVFa1VHWE8tSmJ1RS1HYjFIOHNJNkVSZkcwelpjWlViNjRfLWxLYnk3ODBpcTRIVGtjempUZ2I1ejBtX0djVks00gHfAUFVX3lxTE9VaE1MdmpROExJM292VnA0a2xIVmhnTHpKS2dha2pIdmJkMmlGQTNEQnVvMEpPMEt6eFZLczhFTkVtTzBPeFBzZHRsVWE0dEhjNXpqd1dFV3hQaE9oMDRxSk0ycGRtSmdKTVcyMTBzM012c3RnVENlRFBPei0tbURvNlFLSkw0ZWVzZ0FDbV9uN08xSE1KNkxvSDlRMDdmaXV2UGN3TlY0aG5STHRWemFxbVlVU1hoUDRGU2RaelBYaEFCQThqTmRaRFZwTldXb0pSdGtzU1hrYzBVLWdpMXM?oc=5"
+    ],
     [
      "FXEmpire",
      "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOEZjQ2ZoWURweVpkOHVUUk92cmlKM2lyeXV2ZFdma2tjemIwYU54Q1hxQ2p2ODlxOTdjMGQtUGJrNWdJYzc5OTZrWk1XZnJIblB0U2d2TjdmaS1uSGREVVNHY2JpQTQzS2RPNEVQdU9WZ0VHc1VrLWVZa0hlazlBUlZDSUhPX0RLQjRjYVdaLW9WajQ5MkwtLXRrcUhJQTBBNlFrSTlSUXlPU0dLbGRZYWVtMTBuRzQ?oc=5"
@@ -39,10 +43,6 @@
     [
      "FXStreet",
      "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEptRXhqV2tPNVFzbXFFN0t4d0xYaFBmaU1EaHdoLTlXSUNSdEJQdlZUUVpPNmtyV2t1MV9ZUEcwSTR4YWs4X2QyYWhiR0JlRlRkUEVnODFZajRyU3F6VlpFREwwOXItYmlwaTRpTmt4V0VqenRkRVUwZzczOHpkZVJxM3JFeXBLc3NPTEpHNF9JbHhVUUYzRVpLSnNMaDd0bDJjRW1Xb04tSk1Ld0E?oc=5"
-    ],
-    [
-     "Mitrade",
-     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnJEWDhYYVB5NjVIT252bTZRN2RXOEF2VEJVSHZVcFNGdVhpUXc0emRXb1A1QlF4V1R4RjFYbmJuRDQ5QXd0ZTE0NXQ0TEhKbTk0bTI3Z2lMZ0RVOWY1UE5MTUw0RnVLUi1fdzVzVFNKcGRQZWh5aU1tMm9vdHN2YUxYbll6ZXNHSW9xeUtmd0x0T2ljUUxZ?oc=5"
     ]
    ]
   },
@@ -64,8 +64,8 @@
     ],
     [
      "📰",
-     "FXStreet",
-     "EUR/USD Weekly Forecast: Is the sell-off overcrowded? - FXStreet"
+     "Investing.com",
+     "UBS flags further euro downside as dollar strength keeps EUR/USD under pressure - Investing.com"
     ]
    ],
    "watch": "2026-11-16 12:00 USD Fed Chairman Warsh Speaks (High; forecast n/a, previous n/a)",
@@ -82,12 +82,12 @@
      "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeEloZzNqWmZRLW9oV1U0bjZQUm8xeTlqcU9ENzg4WFJpSFY0dEhzYzNockVhSVhzcC1SaURvdzRMNlppWTBQcGZHY3pyRjB4dEU1SkhLaE5VTW1lemxTQVBXcE16SUNVOE96N1k3QnljWV91OTdtVllSRFZLalNTV3c0Q3hzRVpyeWFSa0FKTnJrVzlEcnJtbENmVjNhSFVra0HSAa4BQVVfeXFMTnZ3MzBXT21DZ0FqYmRiMVd3UmxkTmpudTlOT3ZCaUxoOWRmeTFBcVNjZnlfUDBfUVh2TUFaNFMtWk1yZXpYcnNlZjJWZVJRNjJ1MS1hN3FjSDZYdGs4QW83WmZ0SFkyOUpRWE40WjVqMlpaUFNVa3o0WFNTU3p5Qzd3LXFCYUk1V1Bkcml3LWg4SC1CM1Q0ZjdRV1I3NWdXUFZxbklYVl9DcWdrN0tn?oc=5"
     ],
     [
-     "FXStreet",
-     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPczhWcUpjT3BfcVA1Si1ENkZnN3JuWTNwUTJYUWlNbTVzQk5hVXE5bzFRZ1NLaUhwWXlGS0lwNkhSV3Y3ZXNubHdQbmpuX09ROGhEOVVyZGY0bHVzNHNMSWtDa3EtU3hZRGtnbnFIVEpUbHFEWlNvRTB6a29RYlBaTk0ySlZRbEVvT19YMllHcl9tUFNHeTE1TDN5c19JSFJEamdxSXZQcjFEa0c3TkQzWFhOVzlRcm9kLTBBSQ?oc=5"
-    ],
-    [
      "Investing.com",
      "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjF4dENXUGNtM01qYy11aXloZlhBZ3N5SHhDdFlIbnFMcEp4dlFleWxKTGJWdU5sTGwtbmRDeER1R0h0eFZUQUhRVTRVWVNPd2NaZ2JMZklNRTNYZ3hISUpGdFpCQTBaZUllMzZocHZKWkRQMjVpUk83UXJtMVYtWmIzakJJd2xFbHdNVjdKcWhSSVloTWdpQkU5S0hJSVVHZkdpSUFSLXF2X2ZzXzJWYW9nSzFqNkRtRzVUcGlnYnpmLS1pcUlF?oc=5"
+    ],
+    [
+     "FXStreet",
+     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT0p6R1dwekc3N2JEWUVmTXo4ZVpDZVFPS2Z2alFqbDE4STNZQ3BJUDNxVlRSSFhCYTA5QkZlQzJoWWVNTkdIQ1B0blljVDRsME1ybUM5dEdFRkNqQUJZVjdnazJQM2t0YS0zVWVBOUtHdmV5NjVLX19xcGZFeHdVdS1JdHhyaWRtdkQzNkVudTBKVkduakRuOUw4bmdPVjNmTXltdGpNTkxVRmpaRDJZdXRTV3ExWmVEUDIyUWxjZFhRZWhxcUtWbXdTXy1sMlpXUVFhazNn?oc=5"
     ]
    ]
   },
@@ -104,8 +104,8 @@
     ],
     [
      "📰",
-     "Yahoo! Finance Canada",
-     "GBP/USD (GBPUSD=X) Live Rate, Chart & News - Yahoo Finance - Yahoo! Finance Canada"
+     "Yahoo Finance Singapore",
+     "GBP/USD (GBPUSD=X) live rate, chart and news - Yahoo Finance Singapore"
     ],
     [
      "📰",
@@ -123,16 +123,16 @@
      "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY0dnbFZjRThMUThKY1RHdVFWWEZaanVtcU5qOWdKV3lnaW4telJKU1hNTWdEUzVHZzR6TzF4OE1yWE9oT1JpNUdrd01OZUJLVzFNV2pZVUdCVDRISkJySFY2bnJhU2ZjekF4bWZtb2R1VWs0bl9tbFVXU0VFcHFHWUtTUGdHUndhM19HTVF6bjZsQjJtWkFCTDMzR1Npa05XNnBJTU1SZVFrLWJQQXlEdTFTQ05Ddw?oc=5"
     ],
     [
-     "Yahoo! Finance Canada",
-     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55WTljd3RJbktRaDlNby1zT0dmcU1lMjJwdldoNmpNdm44cGhseWRvMFctRnlVX3N5WWtvSjZjd2x1RUpBejFKSVFRMnFzX3hMYlNnUVdXbHZPZw?oc=5"
+     "Yahoo Finance Singapore",
+     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45cXk5ODVxV3l3RWQ1Vl9aYzVSaGpNQmV0aUxPN1l6bllfNmxRR2xNcXFGVmczOEJFbnlIcThZVGtWcmJlSUZNc0lpbEJJbDJReG5VeFRWZ1g0QQ?oc=5"
     ],
     [
      "FXStreet",
      "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVGNHU3RaNDRROGxuY2EyX2psUzhVbUduX0lQZDFQMjk3cG1PVkh2LWt2UHdXdl9VcE43NmhUdmc0LXNSaDh3M0FoSS1DaTV0U1FVNkdVTnBHaUNTQ3ZRNU1wVjVPbTNwQTdfQklFVlVBNDh4LWRyU1lYNURsTEYybWdoLXhhZkxYNkliRkcwd3kyMkp5X2xJMUpmbzZac3dyd1dYemMxZzF4TU0?oc=5"
     ],
     [
-     "FOREX.com",
-     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMXhKbXI1OVowOWVNUy00MEJVR1pIUmRieFFKQVNsN2pvWS0zcUxOdC1TWWFzRGpvYm1HZ3R2aG1McmxoZ3B0aWZkRlRYbnVSeWx0cUJ4TVJBQjE3YlhSSFdxajFXc0VhT2R3OHBwalV2NTNzbFVzNjhfODRVTERTTFFQQjB5aW1FRWV0MEVPcjE5eEtCbFR6MWxVTWtVTFlsa3VYeHowZmZpTmhYalZKRmFFSXQwTHo1UVQwN2VRbGRWUy1UTF9mbXVmdHFELTlMWWYwdmQyWHI5NERKbDBpeTJCRQ?oc=5"
+     "www.tmgm.com",
+     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM2lHaHFUZWc1Q2pLclFhRGxRLXY1b0ZLYjBKUUxaYXc2dHpnQi1zM0FOUnNQQmdGRXBWTXRsSlRiZ2dEdGNTU1dBaEVSQjRiSjBkVk1oVEx6YkVaQXdRcHdWdzJYeTBZakZUbnZxR1g3T0xEUjVrcENyQlNrTG5Ha0dfZTV5RnpCU2tFX3A0RDJ3RzM0bEtVWGMwMElTQmpKSUZqenFqMVpKOHFWRmlBQVM5bjlkYkFH?oc=5"
     ]
    ]
   },
@@ -176,22 +176,17 @@
      "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM1RFUWpRMW1SZUpENVY4bThOMjBOdENab3l2U2RBRG5iSU9rNEZabWswenExX2IyZFlNTE1YLWppZjFZbTJzTnI0dU9rYUhyZ1Q4Nm1VN2tUOWlZZ1NqdWVJT3NNamlFeFRveFdfOVVSNnh1LWk2d0o2WUwzd3B5dThqckJKMXZ5ZGN6bW9oeVM3UTNnYzAycGt5OHVJOFZ3ZFNtSmpJTHNmYUFFeGl4Mlg5aTB6WTJydUNRVnZfYUV2OFZvU1lhWHV2aHlRXzktRXhobVRlZkotYUxH?oc=5"
     ],
     [
-     "FXStreet",
-     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTE95dU1zeG8xSnRHbms4T0NCSzNfX0lySHlGVmh0bTFFQ2hoZFhqV3plMUdydHpkdEFFUmVPYWxjYXVnSUhuUXVRZWpOd2ZfTjh4YUNHcnpuSXRYQy1WMXJaOEM3LWg2aVNGQVhhZDBGRWg3ODZwRThWX1FJOVhCdnlfcG9FdkVGMWdBalFBYi11S2dza0lnYUxqTllZd0NsVEs0b29YY3U0d3FaekJWLVdvZU9ES1o0cWc?oc=5"
+     "Forex Factory",
+     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWE1FWDVFSzE4cFlzOWpiNlc2U25XeE1BN3NDTmVJMFBpQkVNWGloSjNod085SEZYZGdZUW5XV1FmRmt0OU11M1dqUnJBeF81aFBheFVnalIxM2prY1AzZ2J2SzRJekJZNThfTURYaUF3MWM4bkVJdEdBTnpPSkg2cElFOFMwUFdBWWpubkF0NlpPMnRjbmRN0gGcAUFVX3lxTE5Ed1RaMFNaN1JEbTBLR1lMb0VaMnd0dUNiQzFqZ3FCM0Y3N0ZxNUt0TllaaEVqM25RTFdiQy1YT195YXpabmF3OE1LcDNtVTFUeTRBOVI2OUZXSmNKVFBvSlBUSk1vRks4eHN2b3hrZlJyV3kxTXV5QlN5Rm9zcU1QbkFTVURmeU8yYUxnczJwYk5nakZXYXgzS3dfdw?oc=5"
     ]
    ]
   },
   "oil": {
-   "head": "Oil Prices Rebound Friday on Middle East Tensions but Fall for Third Straight Week – WTI Closes at $83.98, Brent at $92.57 - EnergyNow.com",
+   "head": "Oil prices set for third straight weekly decline on Middle East export flows - CNBC",
    "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
    "bias": 0,
    "tag": "Headlines only",
    "pts": [
-    [
-     "📰",
-     "EnergyNow.com",
-     "Oil Prices Rebound Friday on Middle East Tensions but Fall for Third Straight Week – WTI Closes at $83.98, Brent at $92.57 - EnergyNow.com"
-    ],
     [
      "📰",
      "CNBC",
@@ -199,8 +194,13 @@
     ],
     [
      "📰",
-     "EnergyNow",
-     "Discount on Western Canada Select Widens as US Crude Soars - EnergyNow"
+     "EnergyNow.com",
+     "Oil Prices Rebound Friday on Middle East Tensions but Fall for Third Straight Week – WTI Closes at $83.98, Brent at $92.57 - EnergyNow.com"
+    ],
+    [
+     "📰",
+     "CME Group",
+     "Brent Last Day Financial Overview - CME Group"
     ]
    ],
    "watch": "2026-11-16 12:00 USD Fed Chairman Warsh Speaks (High; forecast n/a, previous n/a)",
@@ -209,33 +209,33 @@
    "name": "USOIL",
    "src": [
     [
-     "EnergyNow.com",
-     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVURWempSTTB1bGViRG55d004bHRDbFhndjdDa0RUcXdxMVJVczBoeHg0bEdFYzRxaFh1RllseGN0QnNxdmw2bEZ4WTkyRG04RXo1WkhBNTNTdlNYMXc3TVh2ZmY1VksxUURzdFlLUkJObXFXX2JQMHVJc1Vic2RFYkdMY2lCZDhKZkFNNTIyVnB1VzB0YnBDOGJrZ3FkdzlPVFYyeHBOS2N0MHh1dHhuQ19qT1pCaTVoVmRZeGE5VkJSLXYxVXEwRlRMQTE0M191MlBhWXJ3aWpmek56aG5mdW93?oc=5"
-    ],
-    [
      "CNBC",
      "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SV3VLcC1fUXZ3eUN2ckZpSzd3akdsSE55cFRrUEZFNDZtVUFxcDRCWng5dHB3XzBDaUliLUowaGdqdDVkaW5va25nUkx5OVc4UXZoVU9qem1NdWFUNndPWldTeXFhVnVo0gFuQVVfeXFMTXRDbE5XQlFpNEF3ZVBycUpzZXFqQXJOdmVWTWVlX2NWLTNPc2w2TEk5TVdEb3FSZTV3c1JpSEJpUTlaX1g3cVhfY0o1cnFZd2xLZm03ZkJWTjRCelpOU2V5bl9pYlk0RkJsZnQtS1E?oc=5"
     ],
     [
-     "EnergyNow",
-     "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlpNQXNjRDBUUU0yVVVuMXpVZmtNT3JUXzI3UnB5ejJoa3ZDeXVVcVVRV2lUeTk0R3Q3c3RRcV9tM0Z5NWNsQ2wtR2IxTmp0RWRsQzJZcFZ1SXJjQnMxcXlpUEVrSmk4ZGg4TUN6MWVrYko0WWtMWEZyUVZIS3A1azdERVdzaDlqT25wMnNwVTZXUQ?oc=5"
+     "EnergyNow.com",
+     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVURWempSTTB1bGViRG55d004bHRDbFhndjdDa0RUcXdxMVJVczBoeHg0bEdFYzRxaFh1RllseGN0QnNxdmw2bEZ4WTkyRG04RXo1WkhBNTNTdlNYMXc3TVh2ZmY1VksxUURzdFlLUkJObXFXX2JQMHVJc1Vic2RFYkdMY2lCZDhKZkFNNTIyVnB1VzB0YnBDOGJrZ3FkdzlPVFYyeHBOS2N0MHh1dHhuQ19qT1pCaTVoVmRZeGE5VkJSLXYxVXEwRlRMQTE0M191MlBhWXJ3aWpmek56aG5mdW93?oc=5"
     ],
     [
-     "Gulf News",
-     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb0FlbkZLTHZ5VFFTQ19tS1ZqNmFWaGhnbU9tME9OVVV5T01Pa1VadnB6VlltcGpuMGhSbzg3blRmdHpqS0ZwMEVQYTdlSHRBOUZwVHRXbVpmV2EyQjI4MW16TDlrTFJmc0ROWlJZa2RhVWZPMDhJWTBiMlFNNE42bTNEMGZsTkdwQmFLY1F3UzIxbWFNQ2tVd2JhR01EOGxBeWlmQ3RNaTdsRTJpc19pT2RFVDBUVWVRZkdad0laTjR6d9IB1AFBVV95cUxQaERNSDFxSWFpbVNVLTJCdXdVV2xFaFluQk9OOE1sNVp6OThEOWRtNmFDYXZETVJ3Q2RVRHpQblpNZEZXTjVLZ2ZSU2Z0SUFPenVTTTNDMzBlSDNKVDRiTGpGa0RkdnZfR2VHc2JCTExsSEFWUG5ZXzB5SkhEYXpNWFhFUTJqTmswaU5uUGlQSXRjMUtTcmRRSVRwTDI4Skk3YlU1bWM1a082U2NrRF9LOGJvaVlvVS1hM1BucUI0ZkFtMDRjRUVEUW9LZmY5OE5Sa1VybQ?oc=5"
+     "CME Group",
+     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGU2ejZ1bGYtNEFGUUVqYVFyaFJ6NGFQWFRxM01tU3kzSWtUNDdSUDRRSnF5SDRORGVBbGZDeWstQUR2SFdkVlBmVlp2eGxwTjJ3NHZhTG41RXJHZGlCMWczZWszTXBadHI5clRjSEJ1WkdOdklQWHNGeTlBdGFFMnNqNndmZw?oc=5"
+    ],
+    [
+     "EnergyNow",
+     "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlpNQXNjRDBUUU0yVVVuMXpVZmtNT3JUXzI3UnB5ejJoa3ZDeXVVcVVRV2lUeTk0R3Q3c3RRcV9tM0Z5NWNsQ2wtR2IxTmp0RWRsQzJZcFZ1SXJjQnMxcXlpUEVrSmk4ZGg4TUN6MWVrYko0WWtMWEZyUVZIS3A1azdERVdzaDlqT25wMnNwVTZXUQ?oc=5"
     ]
    ]
   },
   "nifty": {
-   "head": "NIFTY 50 (^NSEI) Charts, Data & News - Yahoo Finance - Yahoo! Finance Canada",
+   "head": "Nifty, Sensex open lower; market to stay range-bound with positive undertone: experts - DD News",
    "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
    "bias": 0,
    "tag": "Headlines only",
    "pts": [
     [
      "📰",
-     "Yahoo! Finance Canada",
-     "NIFTY 50 (^NSEI) Charts, Data & News - Yahoo Finance - Yahoo! Finance Canada"
+     "DD News",
+     "Nifty, Sensex open lower; market to stay range-bound with positive undertone: experts - DD News"
     ],
     [
      "📰",
@@ -244,8 +244,8 @@
     ],
     [
      "📰",
-     "DD News",
-     "Nifty, Sensex open lower; market to stay range-bound with positive undertone: experts - DD News"
+     "Upstox",
+     "Market weekly wrap: NIFTY50, SENSEX extend winning streak to 4 weeks with 3% gains; NIFTY Smallcap 100 underperforms - Upstox"
     ]
    ],
    "watch": "Check the economic calendar for today.",
@@ -254,20 +254,20 @@
    "name": "NIFTY",
    "src": [
     [
-     "Yahoo! Finance Canada",
-     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaWUxfVUV0cDBxOVRpSU5GNWhWbTlrQTNvNUdSSXZBcVBJTE56cEhsLTZzbmQ0T0w1SVVtUzREczdFYm54VXlDU0RLSFVmZGowWHVvNzJ3?oc=5"
+     "DD News",
+     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGdYNEhHMFZZeU5ZOXg4ajZjYV80dzVmbzdMaWwwdWZ5SnFhYVRaSEFCSllzMDlvSi1FYV9sNlFydzB4c1Fqamp6ZXZ1enBXbnh0VjFpMXFFYVZpY3VhSjd4aUlFaGNRWTczYTk1SDdIUTJ3UkJ5WFI0bUJlb3JYc2dCdW1RTDl0emVWaXZDZS1XUlhyNmhYTWJzN29ROGg5R3JzTHhkNG5zdGct?oc=5"
     ],
     [
      "Kotak Neo",
      "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhuSkJiQ1p6aHRjNlNGeERnd1dVTlB1S1V3YTE1aDFLdjl0VHBSVkRneGdaVzUtVjZzSzRIVVB0OXhsVlFhbDY5dW54cTdjRTk2SlhJbUhYcDZtcDFobzNXZGl1S3FUMlFzZ2RmRmZKZjNhajRrUkdIV0ViNnI0Nw?oc=5"
     ],
     [
-     "DD News",
-     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGdYNEhHMFZZeU5ZOXg4ajZjYV80dzVmbzdMaWwwdWZ5SnFhYVRaSEFCSllzMDlvSi1FYV9sNlFydzB4c1Fqamp6ZXZ1enBXbnh0VjFpMXFFYVZpY3VhSjd4aUlFaGNRWTczYTk1SDdIUTJ3UkJ5WFI0bUJlb3JYc2dCdW1RTDl0emVWaXZDZS1XUlhyNmhYTWJzN29ROGg5R3JzTHhkNG5zdGct?oc=5"
-    ],
-    [
      "Upstox",
      "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVlNhS2poOU8tdkJOUDhsSklyOTZqbW5YLWRfSHZFQ2ktc0NLM3Z0c3FwYURELXVTRE9wenBlN0VBTGtTOUJlTGd5MlIzYnAyYWFYd2tUTm1qdmJCVUtxV2NBcUU5MWUxbmNzcnVJTDBsZHFXb2lVRUZZVGFRN2MxWmVwUGcyd2ZtY19ndmhuclI4Z1YzREc5RHJrSGMtRFhqM3ZzU3VUVl9YRFhIRnZ5WV9KTWgxc3YyMk1TZ0U5MHNzcHhRMHFSS0NiR3FuOEhSLVRuYzVRT3l5clIxTmJEUjl3S01td0R3WTh4UlM0aDBwQ1pIUG5VYlladmtVRlhTVUE?oc=5"
+    ],
+    [
+     "Univest",
+     "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZZTdUQmRkZXZUeDhWQURUY1BDTHI3ZGtCOGdKQ3FwbXAyR19uZ21JYk9OOGRjREs3ZlpxVGJNX0lJQ2w1Y0J6aHg0OFhXVThJLTYtRm9lMEdZOGdlZ052cjgwd3hETDlPSDFaMHhleG5fTmdW?oc=5"
     ]
    ]
   }
