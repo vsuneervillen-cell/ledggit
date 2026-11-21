@@ -9,6 +9,7 @@ MODELS = [m for m in [os.environ.get("GEMINI_MODEL"), "gemini-3.8-flash", "gemin
 DEAD = set()  # models Google says are gone
 LAST = [0]  # last HTTP status
 GOOD = []  # remembers the model that worked
+START = time.time()  # stop asking the AI after 8 minutes so a slow day cannot hang the job
 KEY = os.environ.get("GEMINI_API_KEY", "")
 CAL = "https://nfs.faireconomy.media/ff_calendar_thisweek.json"  # check its terms before going public
 
@@ -24,7 +25,7 @@ INSTR = {
 def get(url, data=None, headers=None):
     try:
         req = urllib.request.Request(url, data=data, headers=headers or UA)
-        resp = urllib.request.urlopen(req, timeout=45)
+        resp = urllib.request.urlopen(req, timeout=30)
         LAST[0] = 200
         return resp.read()
     except urllib.error.HTTPError as e:
@@ -74,6 +75,8 @@ def srcs(heads):
 
 def ask_ai(info, heads, events):
     if not KEY or not heads: return None
+    if time.time() - START > 480:
+        print("AI time budget used up, using headlines only for", info["name"]); return None
     prompt = f"""You brief retail traders in plain, friendly English. Instrument: {info['name']}.
 Use ONLY the headlines and calendar events below. Do not invent prices or numbers. This is education, not advice.
 Headlines: {json.dumps([h['t'] for h in heads])}
