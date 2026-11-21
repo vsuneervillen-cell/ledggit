@@ -244,8 +244,8 @@ hourglass:()=>'<polygon points="40,360 200,20 230,300" stroke-width="3"/><polygo
 };
 const ACC={mystic:"#ff9d2e",sovereign:"#c8a8ff",weaver:"#ff3b4a",photon:"#ffcf4a",talon:"#d9dee6",cortex:"#ffd84a",arc:"#f6b93b",vanguard:"#7db4ff",tempest:"#ffe27a",gamma:"#7dff7a",hourglass:"#ff4d5e"};
 const motUri=(k,o)=>"data:image/svg+xml,"+encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none" stroke="${ACC[k]}" stroke-opacity="${o||1}" stroke-linecap="round" stroke-linejoin="round">${MOT[k]()}</svg>`);
-{const ms=document.createElement("style");ms.textContent=Object.keys(MOT).map(k=>`:root[data-style="${k}"]{--mot:url("${motUri(k)}")}`).join("\n");document.head.appendChild(ms)}
-$("#sty").onclick=()=>{open(`<h3 class="serif">Style</h3><div class="mute">Pick a look. It applies instantly.</div><div style="margin-top:12px">${STY.map(x=>`<div class="tr" data-s="${x[0]}"><div style="display:flex;gap:12px;align-items:center"><span class="th" data-k="${x[0]}" style="background-color:${x[4]};border:2px solid ${x[3]}"></span><div><b>${x[1]}</b><br><small>${x[2]}</small></div></div><span>${x[0]==ST?"\u2713":""}</span></div>`).join("")}</div>`);document.querySelectorAll("#sh .th").forEach(el=>{const k=el.dataset.k;if(MOT[k])el.style.backgroundImage=`url("${motUri(k,.9)}")`})};
+const DRAW=false;if(DRAW){const ms=document.createElement("style");ms.textContent=Object.keys(MOT).map(k=>`:root[data-style="${k}"]{--mot:url("${motUri(k)}")}`).join("\n");document.head.appendChild(ms)}
+$("#sty").onclick=()=>{open(`<h3 class="serif">Style</h3><div class="mute">Pick a look. It applies instantly.</div><div style="margin-top:12px">${STY.map(x=>`<div class="tr" data-s="${x[0]}"><div style="display:flex;gap:12px;align-items:center"><span class="th" data-k="${x[0]}" style="background-color:${x[4]};border:2px solid ${x[3]}"></span><div><b>${x[1]}</b><br><small>${x[2]}</small></div></div><span>${x[0]==ST?"\u2713":""}</span></div>`).join("")}</div>`);document.querySelectorAll("#sh .th").forEach(el=>{const k=el.dataset.k;if(DRAW&&MOT[k])el.style.backgroundImage=`url("${motUri(k,.9)}")`})};
 
 render();
 </script></body></html>
