@@ -1,5 +1,5 @@
 {
- "updated": "28 Nov 2026 11:30 UTC",
+ "updated": "28 Nov 2026 19:38 UTC",
  "items": {
   "gold": {
    "head": "Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March - StoneX",
@@ -47,16 +47,11 @@
    ]
   },
   "eur": {
-   "head": "Euro Short-term Outlook: EUR/USD Plunges to 19-Month Low—Bears Face Critical Test - StoneX",
+   "head": "EUR/USD (EURUSD=X) live rate, chart and news - Yahoo Finance UK",
    "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
    "bias": 0,
    "tag": "Headlines only",
    "pts": [
-    [
-     "📰",
-     "StoneX",
-     "Euro Short-term Outlook: EUR/USD Plunges to 19-Month Low—Bears Face Critical Test - StoneX"
-    ],
     [
      "📰",
      "Yahoo Finance UK",
@@ -64,8 +59,13 @@
     ],
     [
      "📰",
-     "FOREX.com",
-     "EUR/USD Recovers as Markets Fully Price in Fed Hike - FOREX.com"
+     "StoneX",
+     "EUR/USD, USD/CAD, GBP/USD Weekly Technical Outlook - StoneX"
+    ],
+    [
+     "📰",
+     "StoneX",
+     "EUR/USD Forecast: Euro Faces Levels Not Seen Since April 2025 - StoneX"
     ]
    ],
    "watch": "2026-11-23 03:15 EUR French Flash Manufacturing PMI (Medium; forecast 49.8, previous 49.3)",
@@ -74,16 +74,12 @@
    "name": "EURUSD",
    "src": [
     [
-     "StoneX",
-     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdXN4UHN4azVjWHRuTEhlZ056MS1BNlNEVVNTOHRXUVE4ZmhDTGFWdDVER0hISFFLYVB5RkZTdWIyZHU0SWhTUkROTkpraThtYjZwcEJ0Q01BSDhRT3JnU2pvTFFSNWxkei1KbTBXdGltbzUtVmpLb21WUVFmSDhaZ08xUk5VbXpzQUdVNUdsT2tVRlVRdWZ2RE9ZVmJ1NlZoeHdCaEdja01jWTJWTU4yRWJjQjZYX1p1RVBKVVE0bklEOTh5UUVV?oc=5"
-    ],
-    [
      "Yahoo Finance UK",
      "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVm5mak5jUHN2V1ktajNpZjdHRjVKUlFWLTZsTWtROWp6M2xWU2xaM3Y2NHZOVDRKLXl6UkxaYmJJeVFsQ3dsWUE1Mmlsa2tCNkNZaEJseTF5Zw?oc=5"
     ],
     [
-     "FOREX.com",
-     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlQ3R1Frc241eVZyaUxwZmxwV3VSXzRCVk9fU1lXZW1WZmZ1OWFESXRFQTZNN2pLQm5jaXNxeTRhazlHdFdPX1RObW1obGV2Njh0VktCTGRmempITTJ0V2U2M1RtdnZTR3Z5LWozWHdMRnl1ODl6SGlKQ2pzaW9ONS1ocVAtMkFab1d5dHFFZWhIeTM2ZjllR1VIelJNYlE?oc=5"
+     "StoneX",
+     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXE2NFF6SEFoZ0FyS2lFWGljZEJjME5yUnRZYnZEZXpzS3Z5Vm44MkpjaFRDUURWZTAwdFFyTElmMUNWRHRHNTNrSXBfU1hYWGZYbi1LYU1RSXNJcVphS20tWER4UDA2T1cwSDJEX196TllxYTA1eXp0OHlhUnlXWUNlOWdDNkJYTGJtVEhfR3UxUXJad0lKcGY3QVM?oc=5"
     ],
     [
      "FXStreet",
@@ -92,7 +88,7 @@
    ]
   },
   "gbp": {
-   "head": "British Pound Short-term Outlook: GBP/USD 3% Plunge Hits 12-Month Low—Key Support in Focus - StoneX",
+   "head": "EUR/USD, USD/CAD, GBP/USD Weekly Technical Outlook - StoneX",
    "plain": "AI summaries are switched off, so these are the latest headlines from trusted outlets. Read them with care.",
    "bias": 0,
    "tag": "Headlines only",
@@ -100,17 +96,17 @@
     [
      "📰",
      "StoneX",
+     "EUR/USD, USD/CAD, GBP/USD Weekly Technical Outlook - StoneX"
+    ],
+    [
+     "📰",
+     "Yahoo! Finance Canada",
+     "GBP/USD (GBPUSD=X) Live Rate, Chart & News - Yahoo Finance - Yahoo! Finance Canada"
+    ],
+    [
+     "📰",
+     "StoneX",
      "British Pound Short-term Outlook: GBP/USD 3% Plunge Hits 12-Month Low—Key Support in Focus - StoneX"
-    ],
-    [
-     "📰",
-     "FXStreet",
-     "Pound Sterling Price News and Forecast: GBP/USD rises as BoE hawkishness counters Fed rate hike bets - FXStreet"
-    ],
-    [
-     "📰",
-     "Yahoo Finance Singapore",
-     "GBP/USD (GBPUSD=X) live rate, chart and news - Yahoo Finance Singapore"
     ]
    ],
    "watch": "2026-11-23 04:30 GBP Flash Manufacturing PMI (Medium; forecast 53.0, previous 52.8)",
@@ -120,19 +116,19 @@
    "src": [
     [
      "StoneX",
-     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQek5GX3VWX2JZOTFZVFlmWXB6aWgta1hfYjhQQkV0RGlOWlNTUHlMQU16aDE5ZTZwVXczMkFzWk9iRlJtM1hUVGNiSkwxaDliNDA2VzJjaHR3dWE4T1dhaExMbUdZeTU2LVZUb0xJTHJoeFZkNzNBX2Y1bUd2UnZ1SmpJbnA5V0ZkUkYzYWlWV3VSTXJFRGx1aDBrWXZ6MklTc3JxcEhZNzdvbTlWX3ljVEQ4SE9fMkxpcm9Zek11NEpkeGZvN0RYeW9GRW9GMkNvZEFBcm1R?oc=5"
+     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXE2NFF6SEFoZ0FyS2lFWGljZEJjME5yUnRZYnZEZXpzS3Z5Vm44MkpjaFRDUURWZTAwdFFyTElmMUNWRHRHNTNrSXBfU1hYWGZYbi1LYU1RSXNJcVphS20tWER4UDA2T1cwSDJEX196TllxYTA1eXp0OHlhUnlXWUNlOWdDNkJYTGJtVEhfR3UxUXJad0lKcGY3QVM?oc=5"
+    ],
+    [
+     "Yahoo! Finance Canada",
+     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55WTljd3RJbktRaDlNby1zT0dmcU1lMjJwdldoNmpNdm44cGhseWRvMFctRnlVX3N5WWtvSjZjd2x1RUpBejFKSVFRMnFzX3hMYlNnUVdXbHZPZw?oc=5"
     ],
     [
      "FXStreet",
      "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaFlTYTRtQWo3anBJRVdpYlRWV1gzSWxxeG5wX01IaDFVWnZNeHJUOTJMTFZpX3dYeHdpejBrSkhuWEhDZjRmMXJ2TjlpWnlLNjZHczZfUjNjVDlSNUVLZE12OFhtMFhsOHRhdkpOVmJWcmhzakpxcml1M1hFRkpGcGlLTE1CSmV0Zk43b0FIOFhUR3hybEVOMmxSYlYxZFVOcXpEZDlNWmxPRF9fTzZ5TXBVMDlDNGpQSE9IOFNtdWJWeVAwandhWEtYcUxGVWtsNk9NY0M1dVVUQQ?oc=5"
     ],
     [
-     "Yahoo Finance Singapore",
-     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45cXk5ODVxV3l3RWQ1Vl9aYzVSaGpNQmV0aUxPN1l6bllfNmxRR2xNcXFGVmczOEJFbnlIcThZVGtWcmJlSUZNc0lpbEJJbDJReG5VeFRWZ1g0QQ?oc=5"
-    ],
-    [
-     "www.tmgm.com",
-     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRE91MGp0R2hTdC1RQTF5emhFQ0k4UEtSdnRIbHphWktJQVg4c05YaUtLZlFGbGk1d0xicV9YVFdMcjRiUEE1QnZnaEZ5SGs3VXc3S2ZiSWh6U1BralNha1lBLVFzcUVGamlrWEQteXpqMHVQeDRWeTJKbnlHa25nMUhmRDMwX1VUVGdBUkgtOVJkM3B1NnVObnBHWC0xZlRLYlNndFZUTVBrUlNYMjd1QVZCQjdNVndwSXNCa3dFQlJtT3N3cnpoV0RvVmlicS02RzNrb3hXLVN2T1lad2Zqb0MxcW1BNEtW?oc=5"
+     "FOREX.com",
+     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNUF1R0twVWdYS0REeHBZSU1jTEV3MjM3dUVIcElseVYtVFE5U2t3TzRUZmZ4WU4ySTFvbkZoZ0p5ZWxHdmVETkZBZlNtelpSWEJBeXZDTkdPek1oUkJEWW5fNWxXd19uV0hFR3ptS2N4U2lYYU0xLTdsVVFqVkVCaGgyRXRZbklRSG5zQV84eVo0Z1FsNEk5eEVYN2s?oc=5"
     ]
    ]
   },
@@ -150,7 +146,7 @@
     [
      "📰",
      "StoneX",
-     "Japanese Yen Forecast: USD/JPY Bulls Falter at Major Resistance—Critical Range Break in Focus - StoneX"
+     "USD/JPY Forecast: Is Market Uncertainty Limiting Direction? - StoneX"
     ],
     [
      "📰",
@@ -176,8 +172,8 @@
      "https://news.google.com/rss/articles/CBMimAFBVV95cUxOejIycTFjSGJpb0ZTdVNLcVJIbW9YV29ZOUtMRVRLNmhpSmFEakNrWjd3SW9PSUxBZEtvck8tWm9ydEl5YVZBcGYwUHIxZUM3UlFncElCSHhtMTNYSGp4eUlTS1hDc0Q1Uk5OMHVmLVZybGdWZ1FlcFNnQ1JOb3d6QVc5WDA1T2UwZTZxZ3BQUFY0dm9BWjJNSdIBngFBVV95cUxQOUU4b1ZQM0ZiSTJfLW14YktzNklfSGQzYXZXQnVIbFZyOU1COU4wekhsemJjXzJGRDNtdGxXSGE0WExsTE1taW5pd3hiYWhDaEdYR0dEWVlBX0hBdUc0SGFqUTNia0lkOEozRXRpSm9IV1IxTnlCcDFIc0VuMzdXZkp0dkVxeVpHM0gxS0h4UHIzZjVzWWxmSi1ycENZdw?oc=5"
     ],
     [
-     "TradingView",
-     "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaGtGOWlpUUNfSzZpMzY5M0Q2bHZ2LXpWU1ExTy1ZUm44N1AxV1lyVC12Zk9EZHZucGpZcWpvLUhYeHB4WnRCeVRQeElTRGRhdmlRbThvbUdpOUVUYnAtUmxHaC1mak43dUlxVnRYTFhrb1Z1aXdIY2lhdTM5dENhbEljdzQ1V2VqbHAyTktEYXBraXhnVFBOWENuREg0dVlqNmlVT216dzFScU5nTVNGS21FandnSTltTkxJNU9tcU5HU1lFcGc5bVVUQ0FyZw?oc=5"
+     "FXStreet",
+     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaDNhNUZkZ2xwRXd4LThCNmFZTTdJQmNNM3pJR1FheGNhUnR4c0V0a2RnVTlEZWxoYmtRWWZueHdra29saWV5cjV5dkRqUVdUaEp1ZTFDdDVCYm1TZGJfMnllX2xwYnl6QjdmUkhWZ0Y2dDNZU3hwLUtqNWdTVGxjNjBYdGs?oc=5"
     ]
    ]
   },
@@ -217,12 +213,12 @@
      "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLU55RGdzQk1ibl9NUmRxNVdsejNvR2lkWVBKMDR2bWdFcUFqNkp1RzR3aldLZUwzRFV6amp5NnJ6NVUyVnRfemItZm1QazNYdmpjSzJRX25uZGtCZ1YwREdVQ1l4QUZKWTFNWDFwaFEzUzRXQ3pPaUs5OUxVRE4tcnFSb2hJU1pLa2dhRjVkRGNGTlk1Rl9FN3Bjc1RHTUV3WFJWUHpQSjhfbEExbUlzTWhXY2JzdTBZV1JJRlR2bU92eHZnSlAzOWk3MA?oc=5"
     ],
     [
-     "FXEmpire",
-     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFRweFlUa0NvMEp3WjhXbV9vRjBaWl9lTHpzcXAwZ2ExTE4zTElORTRILTFTMmwwbDdDWlhGV2ZyQnhIYkhIUVBUd2k1UGNrd2RIb1oxS25mcUFmRmR2VFN4SVhCS1ItVmh2Q3RheGVhbzVqX1hKR2RnczBlMlNFdlJiVnl5WHlrYVhwdWpGdnU0M2RyTWtra0VzSURoQU9taXF5MEl4Mkllb0V0cUlXSmpCdWg0VHNIbXc?oc=5"
+     "EnergyNow",
+     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSHFYdE5TdlBPVkE2UGFhMnJqNzg3WHpVLW0xeDZwOTE1amg5d0tMdk1SUE1oUlYzRDc2MVRlUkJ4c2huT2thQ0RSeTY3elhzSEZPRFFtb3l4WTduXzBnYUZCaTVuV2stN3RnVFpWbDRVZVRQRTZuSnNFMkhRZGpWSjN3cnNKUlhKYmZKakNrTHlQUUtSTmhvdEpZRnlzQmUwMmc?oc=5"
     ],
     [
-     "Moomoo",
-     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSHhGUmY2cl9hU2tHbGpaZHFEdmdOYmJCZ1VWRXI0OERwUGcyZVRxejRTLV9EUkVvVktINTJPZC01VmlxVU04WHY3YUwwUFdNZFpncEJjMlF5Z3RfbDh1MHlNZ1ZKREtSS0NIY1ZTTENxQll0dlB4QzJUR2VWUTBRaVFXT0lqZTBsTkxzNjlxQV9lRUxGS3pkLUdQaUU4OHRra0NzMQ?oc=5"
+     "grafa.com",
+     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUi1nRFJXdnYyZEZSODRENEoycUM5ekY4NGY2cGp5Ym1FTm1fREVmM1B3MThIUmZfLU1sQWQxcFNkVFNNQ3djUHN6ZktUbGpYNmhydVRHa08xaWZydnZpUWJCeHo1UW9ZX0lieXM1UC10YVhmVi1fR2xPVmVvVm5WdVpkVmlaZGw0ZlVMX2hyVmY?oc=5"
     ]
    ]
   },
@@ -239,13 +235,13 @@
     ],
     [
      "📰",
-     "Univest",
-     "Stock Market Prediction for Monday 30 Nov: GDP and Month-End - Univest"
+     "DD News",
+     "Nifty, Sensex open lower; market to stay range-bound with positive undertone: experts - DD News"
     ],
     [
      "📰",
-     "DD News",
-     "Nifty, Sensex open lower; market to stay range-bound with positive undertone: experts - DD News"
+     "Upstox",
+     "Market weekly wrap: NIFTY50, SENSEX end 4-week rally; Tata Steel lags, TCS leads gains - Upstox"
     ]
    ],
    "watch": "Check the economic calendar for today.",
@@ -258,16 +254,16 @@
      "https://news.google.com/rss/articles/CBMifkFVX3lxTFByWE04WVJrYm56SnV5ZjhHRjU5ZnE1SmNmVXpnenQ4V0FPODFLR3ZyNEJOVXdFdVVPVUs0V3pVT3ROdVhkRFNlRUVNeFVvYjEzZVhkbVBnTm1XNGRpRDhUNFhJejRoQWllQmVDWTFtQjA2WlMzLS1xTDA5ZHg5UQ?oc=5"
     ],
     [
-     "Univest",
-     "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZZTdUQmRkZXZUeDhWQURUY1BDTHI3ZGtCOGdKQ3FwbXAyR19uZ21JYk9OOGRjREs3ZlpxVGJNX0lJQ2w1Y0J6aHg0OFhXVThJLTYtRm9lMEdZOGdlZ052cjgwd3hETDlPSDFaMHhleG5fTmdW?oc=5"
-    ],
-    [
      "DD News",
      "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGdYNEhHMFZZeU5ZOXg4ajZjYV80dzVmbzdMaWwwdWZ5SnFhYVRaSEFCSllzMDlvSi1FYV9sNlFydzB4c1Fqamp6ZXZ1enBXbnh0VjFpMXFFYVZpY3VhSjd4aUlFaGNRWTczYTk1SDdIUTJ3UkJ5WFI0bUJlb3JYc2dCdW1RTDl0emVWaXZDZS1XUlhyNmhYTWJzN29ROGg5R3JzTHhkNG5zdGct?oc=5"
     ],
     [
-     "The Times of India",
-     "https://news.google.com/rss/articles/CBMipwJBVV95cUxPNkhJTEZQZWR5UGtmNWl6MzdIM0hqM3lRbWZzT0xsZ1J0LVplVXNZejNGU1dueVdQRXlVRkExQzllbzlJZ0RRQmxvbHdCbmEtRWxEU1M0WXRLSDlaS2Y4aFMtSl9LSnRDN2lsWGd4dlBicHlkTjNpd2M4MGF0SjVmbHdNOGtwVDBsS2xFZG8zV0tPVW0tOFBNdTZUY2I2WmtPZE1PYmV3OHZGLU9SLXhJeGM1YVJKa0NtZm9WX2pqLWNRVVVSUnFzOXR5dVZtSzN4YjJOY2dHZ1NhZmFvRmtkVkcwQWVkaXV4dmhVemV6WFk4V1FyR1ZtZVBia0czLU96Z0pCYjdEbHlyUGw3MUg0STA3bURTS0ppMGRUeDdlNTlyX3NRLVpF0gGsAkFVX3lxTE5nM18zX0ZQVm9IOE56clFkZGpCVGRBN2lDelNiZnU5Z2V3X3JLbG9XZEtKbzN5VjR1ems3eEZmTktaM3VWN3JzT1B6TllmUk5TRU9zQzgzUHBIS0k1SHVHY2VwclVNcUFjcUZzN0ZJdVFHb2VPOFAtWXg0eVBWYnZMcHFZTTRuVEhKQVRvcW5kcnN6bDN3Y1BlaWFodVVwXy05YWUtazZQd2FOMHA1elZVSUI5T1h4WV9yREw2RFE3U3JkTHVPV2k2T0Q2alRRNER6dl9qREtxdDZYWUhJdHRLV19zbnpyNk5zNGVhX29mWWJEV0VEUHRXM0F1WkdHVGJnM080M3ZRSXBVVDFTeHliSmF3a3AwSkZ3N1o2a3Z4Y2dHNDlqNlQ1ZmZwUA?oc=5"
+     "Upstox",
+     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNHRVLXBOMlc0UlhQeUMzN0ZFamtwdTdCOVhGdUhWVXFFNkctUkN4cGlJd0R2c0lEYVZabzZrMU1uN1dyc2lLOEtWbnJMZVFpbDU2VFpnbVNNWjJVQThqUUhoa2dSZWFyRFZMT00xYU55OGF5Q2g2NUx5NVdMM1UzN3BMS2FVTG9LdTh3RlRiQ01jSTREN0NOekYzQVZCSlhKWTlmSWJmaHh6ZFRWQlFHN3NtanVrU3ZjU2JtMG50QkNpdU1VTWQ5SzRZcXFUNG1nUS1JWm9QRDJJUQ?oc=5"
+    ],
+    [
+     "Telangana Today",
+     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWU82Tkxxb3JQa0R4MVhLSDdoUXZudHRBYTZlalJLN3lEOVlZQ1ROZWVEcllfUmxpdVQtcDJ3UGJBUU5VcWNUTmVhWlY3U2NUdEx0aDVvUFdnMjM5MTU2dFNtU2pHYUhZS1lsTnpIMjBCa0J3NFBBMUlISXpzd1JMUkJKV3cwVHZ0RXpYNVNWeTRmX3ZVSkRSbk1SdjJPRUhMWHJsOEFjZHQ?oc=5"
     ]
    ]
   }
